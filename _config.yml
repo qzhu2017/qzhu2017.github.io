@@ -51,6 +51,9 @@ author:
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
       url                : "https://github.com/qzhu2017"
+    - label              : "Google Scholar"
+      icon               : "fas fa-graduation-cap"
+      url                : "https://scholar.google.com/citations?user=1vO0eS0AAAAJ&hl=en"
 
 
 # Site Footer
