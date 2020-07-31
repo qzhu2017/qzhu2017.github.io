@@ -1,11 +1,33 @@
+# main navbar
 main:
-  - title: "Team"
-    url: /team/
   - title: "News"
     url: /news/
   - title: "Research"
     url: /research/
+  - title: "Team"
+    url: /team/
   - title: "Publications"
     url: /publications/
   - title: "Courses"
     url: /courses/
+
+# research sidebar
+research:
+  - title: "Research Overview"
+    url: /research/
+  - title: "Areas of Interest"
+    children:
+      - title: "Materials Under Extreme Conditions"
+        url: /research/materials-under-extreme-conditions/
+      - title: "Organic Crystal Polymorphism"
+        url: /research/organic-crystal-polymorphism/
+      - title: "Defects in Materials"
+        url: /research/defects-in-materials/   
+  - title: "Software Development"
+    children:
+      - title: "USPEX"
+        url: https://uspex-team.org/en
+      - title: "PyXtal"
+        url: https://pyxtal.readthedocs.io/en/latest
+      - title: "vasprun-xml"
+        url: https://vasprun-xml.readthedocs.io/en/latest/index.html
