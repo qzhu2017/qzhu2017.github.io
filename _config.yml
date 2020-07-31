@@ -23,6 +23,8 @@ subtitle                 : "Computational Materials Science | University of Neva
 name                     : &name "Qiang Zhu" # &name is a YAML anchor which can be *referenced later
 email                    : &email "qiang.zhu@unlv.edu"
 description              : &description "Our research focuses on fundamental understandings of structures and properties in materials, with the goal of discovery and design for high pressure physics and chemistry, organic crystal polymorphism, defects in materials, and materials informatics."
+url                      : https://sabaronett.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/Zhu-web-page" # the subpath of your site/repo, e.g. "/blog"
 logo                     : "/assets/images/88x88.png"
 masthead_title           : "CMS | UNLV"
 breadcrumbs              : true # false (default)
