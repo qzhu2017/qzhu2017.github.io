@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale                   : "en-US"
-title                    : "CMS | UNLV"
-title_separator          : "|"
+title                    : "CMS &#124; UNLV"
+title_separator          : "-"
 subtitle                 : "Computational Materials Science | University of Nevada, Las Vegas"
 name                     : &name "Qiang Zhu" # &name is a YAML anchor which can be *referenced later
 email                    : &email "qiang.zhu@unlv.edu"
@@ -118,7 +118,23 @@ kramdown:
   toc_levels             : 1..6
   smart_quotes           : lsquo,rsquo,ldquo,rdquo
   enable_coderay         : false
-  
+
+
+# Collections
+collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
+  team:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  courses:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Front Matter Defaults
 defaults:
@@ -129,7 +145,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
       comments: true
       share: true
       related: true
@@ -139,8 +154,51 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      header:
+        overlay_color: "#333"
+  # _research
+  - scope:
+      path: "_research"
+      type: research
+    values:
+      layout: single
+      header:
+        overlay_color: "#333"
+      excerpt: ""
+      share: true
+      sidebar:
+        nav: "research"
+      toc: true
+      toc_sticky: true
+  # _team
+  - scope:
+      path: "_team"
+      type: team
+    values:
+      layout: single
+      share: true
+  # _publications
+  - scope:
+      path: "_publications"
+      type: publications
+    values:
+      layout: single
+      share: true
+      sidebar:
+        nav: "publications"
+  # _courses
+  - scope:
+      path: "_courses"
+      type: courses
+    values:
+      layout: single
+      share: true
+      sidebar:
+        nav: "courses"
 
+
+
+# Archive Settings (GitHub Pages)
 category_archive:
   type: liquid
   path: /categories/
@@ -151,8 +209,9 @@ tag_archive:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
+paginate: 5 # amount of posts to show
+paginate_path: /news/page:num/
+# paginate_path: /publications/peer-reviewed/page:num/ # more than one?
 timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 github: [metadata]
 
