@@ -48,12 +48,16 @@ author:
   bio                    : "Assistant Professor in the Department of Physics & Astronomy at the University of Nevada, Las Vegas."
   location               : "Las Vegas, NV, USA"
   links:
-    - label              : "GitHub"
-      icon               : "fab fa-fw fa-github"
-      url                : "https://github.com/qzhu2017"
     - label              : "Google Scholar"
       icon               : "fas fa-graduation-cap"
       url                : "https://scholar.google.com/citations?user=1vO0eS0AAAAJ&hl=en"
+    - label              : "GitHub"
+      icon               : "fab fa-fw fa-github"
+      url                : "https://github.com/qzhu2017"
+    - label              : " CV (PDF)"
+      icon               : "fas fa-file-pdf"
+      url                : "/assets/pdfs/cv-Zhu.pdf"
+
 
 
 # Site Footer
