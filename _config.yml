@@ -54,10 +54,12 @@ author:
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
       url                : "https://github.com/qzhu2017"
+    - label              : " Email"
+      icon               : "fas fa-envelope"
+      url                : "mailto:qiang.zhu@unlv.edu"
     - label              : " CV (PDF)"
       icon               : "fas fa-file-pdf"
       url                : "/assets/pdfs/cv-Zhu.pdf"
-
 
 
 # Site Footer
