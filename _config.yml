@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # in the templates via {{ site.myvariable }}.
 locale                   : "en-US"
 title                    : "CMS &#124; UNLV"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : "Computational Materials Science | University of Nevada, Las Vegas"
 name                     : &name "Qiang Zhu" # &name is a YAML anchor which can be *referenced later
 email                    : &email "qiang.zhu@unlv.edu"
@@ -44,7 +44,7 @@ analytics:
 # Site Author
 author:
   name                   : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar                 : "/assets/images/bio-photo.png"
+  avatar                 : "/assets/images/team/qiang-zhu.jpg"
   bio                    : "Assistant Professor in the Department of Physics & Astronomy at the University of Nevada, Las Vegas."
   location               : "Las Vegas, NV, USA"
   links:
@@ -182,6 +182,9 @@ defaults:
       type: team
     values:
       layout: single
+      header:
+        overlay_color: "#333"
+      excerpt: ""
       share: true
   # _publications
   - scope:
@@ -189,6 +192,8 @@ defaults:
       type: publications
     values:
       layout: single
+      header:
+        overlay_color: "#333"
       share: true
       sidebar:
         nav: "publications"
