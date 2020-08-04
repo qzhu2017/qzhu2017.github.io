@@ -1,0 +1,17 @@
+---
+title: "Papers"
+permalink: /publications/papers/
+excerpt: "Peer-reviewed journal articles"
+---
+
+1. Zagaceta D., Yanxon H., Zhu Q. (2020).
+__[Spectral Neural Network Potentials for Binary Alloys](https://aip.scitation.org/doi/10.1063/5.0013208)__.
+J. Appl. Phys., 128, 045113. (Open Access: [PDF](https://aip.scitation.org/doi/pdf/10.1063/5.0013208%40jap.2020.MLMD2020.issue-1))
+
+1. Zhu S-C, Yan X-Z, Liu J., Oganov A.R., Zhu Q. (2020).
+__[A Revisited Mechanism of the Graphite-to-Diamond Transition at High Temperature](https://www.cell.com/matter/fulltext/S2590-2385(20)30246-0)__.
+Matter 3, 1–15. ([PDF](/assets/pdfs/papers/2020-matter.pdf))
+
+1. Qu J-Y, Zagaceta D., Zhang W-W, Zhu Q. (2020).
+__[High dielectric ternary oxides from crystal structure prediction and high-throughput screening](https://www.nature.com/articles/s41597-020-0418-6)__.
+Sci. Data, 7, 81. (Open Access: [PDF](https://www.nature.com/articles/s41597-020-0418-6.pdf))
