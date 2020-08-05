@@ -1,36 +1,36 @@
 ---
 layout: splash
+title: "Computational Materials Science"
 permalink: /alt/
 hidden: true
-title: Computational Materials Science
 header:
-  overlay_filter: "0.1"
-  overlay_image: /assets/images/splash-alt.jpg
+  overlay_filter: 0.0 # opacity
+  overlay_image: /assets/images/home/splash-alt.jpg
+  caption: "Image by kjpargeter ([Freepik](https://www.freepik.com/free-photo/3d-connections-background-with-low-poly-connecting-lines-dots_7155944.htm))"
   actions:
     - label: "<i class='fas fa-book-reader'></i> &nbsp;Learn more"
       url: "/research/"
-excerpt: >
-  Understanding the fundamental structure and properties of materials toward discovery and new design.
+excerpt: "Understanding the fundamental structure and properties of materials toward discovery and design."
 intro: 
-  - excerpt: 'We employ a variety of computational methods, including atomistic simulation based on _molecular dynamics_ and _Monte Carlo_ techniques, _density functional theory-_ (DFT) based electronic structure methods, and structure prediction techniques using _evolutionary algorithms_.<br />
+  - excerpt: "We employ a variety of computational methods, including: _atomistic simulation_, based on molecular dynamics and Monte Carlo techniques; _density functional theory_ (DFT) based electronic structure methods; and _structure prediction techniques_, using evolutionary algorithms.<br />
   <br />
-  Our goal is to discover and design new materials in the following aspects:'
+  __Our goal is to discover and design new materials in the following aspects:__"
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/home/materials-under-extreme-conditions-alt.jpg
     alt: "materials under extreme conditions"
     title: "Materials Under Extreme Conditions"
     excerpt: "Extended solids formed under ultrahigh pressure exhibit dramatic changes in their properties and may offer significant improvements over their original forms."
     url: "/research/materials-under-extreme-conditions/"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
     btn_label: "Learn more" 
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/home/organic-crystal-polymorphism-alt.jpg
     alt: "organic crystal polymorphism"
     title: "Organic Crystal Polymorphism"
     excerpt: "Predicting the crystal structures for a given molecule could help determine the existence of different forms and suggest as yet unseen polymorphs of currently known structures."
     url: "/research/organic-crystal-polymorphism/"
-    btn_class: "btn--success"
+    btn_class: "btn--info"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/home/defects-in-materials-alt.jpg
     alt: "defects in materials"
     title: "Defects in High-Performance Materials"
     excerpt: "Understanding the structural and functional properties influenced by defects is key to optimizing next-gen materials needed for advanced energy applications."
