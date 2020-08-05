@@ -24,6 +24,7 @@ name                     : &name "Qiang Zhu" # &name is a YAML anchor which can 
 email                    : &email "qiang.zhu@unlv.edu"
 description              : &description "Our research focuses on fundamental understandings of structures and properties in materials, with the goal of discovery and design for high pressure physics and chemistry, organic crystal polymorphism, defects in materials, and materials informatics."
 logo                     : "/assets/images/logo.png"
+favicon                  : "/assets/images/favicon.ico"
 masthead_title           : "CMS | UNLV"
 breadcrumbs              : true # false (default)
 words_per_minute         : 200
