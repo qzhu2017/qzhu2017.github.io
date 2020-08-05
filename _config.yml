@@ -203,10 +203,13 @@ defaults:
       type: courses
     values:
       layout: single
+      header:
+        overlay_color: "#333"
       share: true
       sidebar:
         nav: "courses"
-
+      toc: true
+      toc_sticky: true
 
 
 # Archive Settings (GitHub Pages)

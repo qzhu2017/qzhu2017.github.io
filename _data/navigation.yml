@@ -43,3 +43,17 @@ publications:
         url: /publications/arxiv/
       - title: "Papers"
         url: /publications/papers/
+
+# courses sidebar
+courses:
+  - title: "Courses"
+    url: /courses/
+    children:
+      - title: "PHYS 467/667"
+        url: /courses/phys-467-667/
+      - title: "PHYS 300"
+        url: /courses/phys-300/
+      - title: "PHYS 468/668"
+        url: /courses/phys-468-668/
+      - title: "Numerical Optimization"
+        url: /courses/numerical-optimization/
