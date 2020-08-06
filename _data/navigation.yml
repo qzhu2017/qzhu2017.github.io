@@ -28,9 +28,11 @@ research:
       - title: "USPEX"
         url: https://uspex-team.org/en
       - title: "PyXtal"
-        url: https://pyxtal.readthedocs.io/en/latest
+        url: /research/pyxtal/
+      - title: "PyXtal_FF"
+        url: /research/pyxtal_ff/
       - title: "vasprun-xml"
-        url: https://vasprun-xml.readthedocs.io/en/latest/index.html
+        url: /research/vasprun/
 
 # publications sidebar
 publications:

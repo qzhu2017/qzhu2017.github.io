@@ -17,4 +17,5 @@ At present, we are primarily interested in the following subjects:
 We are also developing various codes for different purposes.
 - [USPEX](https://uspex-team.org/en): a powerful code for structure prediction
 - [PyXtal](https://pyxtal.readthedocs.io/en/latest): a Python library for crystal structure generation
+- [PyXtal_FF](https://pyxtal.readthedocs.io/en/latest): a Python library for force field development
 - [vasprun-xml](https://vasprun-xml.readthedocs.io/en/latest/index.html): a Python library for parsing vasprun.xml
