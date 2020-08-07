@@ -29,8 +29,8 @@ research:
         url: https://uspex-team.org/en
       - title: "PyXtal"
         url: /research/pyxtal/
-      - title: "PyXtal_FF"
-        url: /research/pyxtal_ff/
+      - title: "PyXtal-FF"
+        url: /research/pyxtalff/
       - title: "vasprun-xml"
         url: /research/vasprun/
 

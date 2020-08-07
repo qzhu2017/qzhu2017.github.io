@@ -1,18 +1,18 @@
 ---
-title: "PyXtal_FF"
-permalink: /research/pyxtal_FF/
+title: "PyXtal-FF"
+permalink: /research/pyxtalFF/
 ---
 
 
 
-         ______       _    _          _         _______ _______ 
-        (_____ \     \ \  / /        | |       (_______|_______)
-         _____) )   _ \ \/ / |_  ____| |        _____   _____   
-        |  ____/ | | | )  (|  _)/ _  | |       |  ___) |  ___)  
-        | |    | |_| |/ /\ \ |_( ( | | |_______| |     | |      
-        |_|     \__  /_/  \_\___)_||_|_(_______)_|     |_|      
-               (____/  
-               
+      ______       _    _          _         _______ _______ 
+     (_____ \     \ \  / /        | |       (_______|_______)
+      _____) )   _ \ \/ / |_  ____| |        _____   _____   
+     |  ____/ | | | )  (|  _)/ _  | |       |  ___) |  ___)  
+     | |    | |_| |/ /\ \ |_( ( | | |_______| |     | |      
+     |_|     \__  /_/  \_\___)_||_|_(_______)_|     |_|      
+            (____/  
+            
 
 ## Introduction
 A Python package for Machine learning of interatomic force field.
@@ -21,7 +21,7 @@ PyXtal FF is an open-source Python library for developing machine learning inter
 
 ## Current Features
 The aim of PyXtal_FF is to promote the application of atomistic simulations by providing several choices of structural descriptors and machine learning regressions in one platform. Based on the given choice of structural descriptors including 
-- the atom-centered symmetry functions, 
+- atom-centered symmetry functions, 
 - embedded atom density, 
 - SO4 bispectrum, 
 - smooth SO3 power spectrum. 
