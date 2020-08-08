@@ -1,6 +1,6 @@
 ---
 title: "PyXtal-FF"
-permalink: /research/pyxtalFF/
+permalink: /research/pyxtalff/
 ---
 
 
