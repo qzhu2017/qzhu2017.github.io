@@ -15,8 +15,7 @@ permalink: /research/pyxtalff/
             
 
 ## Introduction
-A Python package for Machine learning of interatomic force field.
-PyXtal FF is an open-source Python library for developing machine learning interatomic potential of materials. 
+[PyXtal FF](https://github.com/qzhu2017/PyXtal_FF) is an open-source Python library for developing machine learning interatomic potential of materials. 
 
 
 ## Current Features
