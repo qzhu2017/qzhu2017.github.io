@@ -17,16 +17,19 @@ research:
     url: /research/
   - title: "Areas of Interest"
     children:
-      - title: "Materials Under Extreme Conditions"
-        url: /research/materials-under-extreme-conditions/
+      - title: "Materials Informatics"
+        url: /research/materials-informatics/
       - title: "Organic Crystal Polymorphism"
         url: /research/organic-crystal-polymorphism/
       - title: "Defects in Materials"
         url: /research/defects-in-materials/   
+      - title: "Materials Under Extreme Conditions"
+        url: /research/materials-under-extreme-conditions/
+
   - title: "Software Development"
     children:
       - title: "USPEX"
-        url: https://uspex-team.org/en
+        url: /research/uspex/
       - title: "PyXtal"
         url: /research/pyxtal/
       - title: "PyXtal-FF"

@@ -1,11 +1,11 @@
 ---
-title: "PyXtal"
+title: "vasprun"
 permalink: /research/vasprun/
 ---
 
 
 ## Introduction
-[vasprun-xml](https://github.com/qzhu2017/vasprun) is used for quick analysis of vasp calculation solely from vasprun.xml. It has the following features:
+[vasprun-xml](https://github.com/qzhu2017/vasprun) is my part time project for fun. It is mainly used for quick analysis of vasp calculation solely from vasprun.xml. It has the following features:
 
 - band gap calculation
 - dos plot (total dos / orbital partial dos / atomic partial dos)

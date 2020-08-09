@@ -9,13 +9,14 @@ The urgent demand for new technologies has greatly exceeded the capabilities of 
 
 # Areas of Interest
 At present, we are primarily interested in the following subjects:
-- [Materials under extreme conditions](/research/materials-under-extreme-conditions/)
+- [Materials Informatics](/research/materials-informatics/)
 - [Organic crystal polymorphism](/research/organic-crystal-polymorphism/)
+- [Materials under extreme conditions](/research/materials-under-extreme-conditions/)
 - [Defects in materials](/research/defects-in-materials/)
 
 # Software Development
-We are also developing various codes for different purposes.
-- [USPEX](https://uspex-team.org/en): a powerful code for structure prediction
-- [PyXtal](https://pyxtal.readthedocs.io/en/latest): a Python library for crystal structure generation
-- [PyXtal_FF](https://pyxtal.readthedocs.io/en/latest): a Python library for force field development
-- [vasprun-xml](https://vasprun-xml.readthedocs.io/en/latest/index.html): a Python library for parsing vasprun.xml
+A key to enable large scale coordination in science is to develop open-source software packages and let researchers generate and deposit data to the public. To facilitate the materials discovery and physics modeling, we are also developing various codes for different purposes.
+- [USPEX](/research/uspex): a powerful code for structure prediction
+- [PyXtal](/research/pyxtal): a Python library for crystal structure generation
+- [PyXtal_FF](/research/pyxtalff): a Python library for force field development
+- [vasprun-xml](/research/vasprun): a Python library for parsing vasprun.xml
