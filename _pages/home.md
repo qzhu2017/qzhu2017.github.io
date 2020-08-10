@@ -20,7 +20,7 @@ feature_row:
     alt: "Materials Informatics"
     title: "Materials Informatics"
     excerpt: "Big data and machine learning in materials sciences."
-    url: "/research/organic-crystal-polymorphism/"
+    url: "/research/materials-informatics/"
     btn_class: "btn--info"
     btn_label: "Learn more"
   - image_path: /assets/images/home/organic-crystal-polymorphism.jpg
