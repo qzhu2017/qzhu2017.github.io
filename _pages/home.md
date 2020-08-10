@@ -37,6 +37,10 @@ feature_row:
     url: "/research/defects-in-materials/"
     btn_class: "btn--info"
     btn_label: "Learn more"
+
+---
+<!---
+your comment goes here
 feature_row2:
   - image_path: /assets/images/home/materials-under-extreme-conditions.jpg
     alt: "materials under extreme conditions"
@@ -45,7 +49,8 @@ feature_row2:
     url: "/research/materials-under-extreme-conditions/"
     btn_class: "btn--info"
     btn_label: "Learn more"
----
+-->
+
 
 {% include feature_row id="intro" type="center" %}
 
