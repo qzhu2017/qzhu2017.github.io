@@ -36,10 +36,10 @@ search_provider          : lunr # lunr (default) for GitHub Pages
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "" # Replace this with your ID
-    anonymize_ip         : true
+    tracking_id          : "UA-174909087-1" # Replace this with your ID
+    anonymize_ip         : false
 
 
 # Site Author
