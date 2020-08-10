@@ -5,7 +5,7 @@ permalink: /
 hidden: true
 header:
   overlay_filter: 0.0 # opacity
-  overlay_image: /assets/images/home/splash-alt.jpg
+  overlay_image: /assets/images/home/splash.jpg
   caption: "Image by kjpargeter ([Freepik](https://www.freepik.com/free-photo/3d-connections-background-with-low-poly-connecting-lines-dots_7155944.htm))"
   actions:
     - label: "<i class='fas fa-book-reader'></i> &nbsp;Learn more"
