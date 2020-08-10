@@ -2,10 +2,10 @@
 title: "Katie Randolph"
 excerpt: "Past Member"
 header:
-  teaser: /assets/images/team/Katie-Randolph.png
+  teaser: /assets/images/team/katie-randolph.jpg
 sidebar:
   - title: "Position"
-    image: /assets/images/team/Katie-Randolph.png
+    image: /assets/images/team/katie-randolph.jpg
     text: "Past Member"
   - title: "Research Interests"
     text: "<ul>
