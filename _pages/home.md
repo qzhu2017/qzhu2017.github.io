@@ -15,6 +15,7 @@ intro:
   - excerpt: "We develop and apply a variety of computational methods, including: _atomistic simulation_,  _density functional theory_ and _structure prediction_ to investigate the materials' structure-property relation.<br />
   <br />
   __Our goal is to discover and design new materials in the following aspects:__"
+feature_row:
   - image_path: /assets/images/home/materials-informatics.jpg
     alt: "Materials Informatics"
     title: "Materials Informatics"
@@ -42,7 +43,7 @@ intro:
     excerpt: "Extended solids formed under ultrahigh pressure exhibit dramatic changes in their properties and may offer significant improvements over their original forms."
     url: "/research/materials-under-extreme-conditions/"
     btn_class: "btn--info"
-    btn_label: "Learn more" 
+    btn_label: "Learn more"
 ---
 
 {% include feature_row id="intro" type="center" %}
