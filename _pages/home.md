@@ -37,23 +37,18 @@ feature_row:
     url: "/research/defects-in-materials/"
     btn_class: "btn--info"
     btn_label: "Learn more"
-
+# feature_row2:
+#   - image_path: /assets/images/home/materials-under-extreme-conditions.jpg
+#     alt: "materials under extreme conditions"
+#     title: "Materials Under Extreme Conditions"
+#     excerpt: "Extended solids formed under ultrahigh pressure exhibit dramatic changes in their properties and may offer significant improvements over their original forms."
+#     url: "/research/materials-under-extreme-conditions/"
+#     btn_class: "btn--info"
+#     btn_label: "Learn more"
 ---
-<!---
-your comment goes here
-feature_row2:
-  - image_path: /assets/images/home/materials-under-extreme-conditions.jpg
-    alt: "materials under extreme conditions"
-    title: "Materials Under Extreme Conditions"
-    excerpt: "Extended solids formed under ultrahigh pressure exhibit dramatic changes in their properties and may offer significant improvements over their original forms."
-    url: "/research/materials-under-extreme-conditions/"
-    btn_class: "btn--info"
-    btn_label: "Learn more"
--->
-
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="center" %}
+<!-- {% include feature_row id="feature_row2" type="center" %} -->
