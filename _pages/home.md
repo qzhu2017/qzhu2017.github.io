@@ -30,6 +30,13 @@ feature_row:
     url: "/research/organic-crystal-polymorphism/"
     btn_class: "btn--info"
     btn_label: "Learn more"
+  - image_path: /assets/images/home/tpdb.jpeg
+    alt: "Topological Phonon database"
+    title: "Topological phonon database!"
+    excerpt: "The first online topological phonon database with over 5000 materials is in live!"
+    url: "https://tpdb.physics.unlv.edu/"
+    btn_class: "btn--info"
+    btn_label: "Learn more"
 #  - image_path: /assets/images/home/defects-in-materials.jpg
 #    alt: "defects in materials"
 #    title: "Defects in Materials"
@@ -38,13 +45,7 @@ feature_row:
 #    btn_class: "btn--info"
 #    btn_label: "Learn more"
 # feature_row2:
-   - image_path: /assets/images/home/tpdb.jpeg
-    alt: "Topological Phonon database"
-    title: "Topological phonon database!"
-    excerpt: "The first online topological phonon database with over 5000 materials is in live!"
-    url: "https://tpdb.physics.unlv.edu/"
-    btn_class: "btn--info"
-    btn_label: "Learn more"
+
 #     alt: "materials under extreme conditions"
 #     title: "Materials Under Extreme Conditions"
 #     excerpt: "Extended solids formed under ultrahigh pressure exhibit dramatic changes in their properties and may offer significant improvements over their original forms."
