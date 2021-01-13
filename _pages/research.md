@@ -23,3 +23,11 @@ A key to enable large scale coordination in science is to develop open-source so
 
 # Affiliation
 Our group is also part of the [Catalysts Institute](https://alsdcgroup.wordpress.com) sponsored by NSF.
+
+# Fundings:
+We acknowledge the following funding agencies for their generous support
+- UNLV (Start up)
+- NSF
+- SONY
+- NASA
+- DOE (subcontract)
