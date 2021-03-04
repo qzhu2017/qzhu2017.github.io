@@ -5,7 +5,8 @@ sidebar:
   nav: "research"
 ---
 # Overview
-The urgent demand for new technologies has greatly exceeded the capabilities of current materials research. Thanks to the spectacular progress in high-performance computing, computational modelling has been playing an increasingly important role in accelerating materials discovery and innovation. Understanding the atomic structure of a material is the first step in computational materials design. In the past years, we have been focusing on the development of first-principle structure predictions, based on evolutionary algorithms (EA), and apply it study a variety of to materials from bulk crystals, surfaces, materials defects. When the structure model is available, we employ approximate methods within the framework of density functional theory (DFT) to complex atomic systems and investigate their mechanical and electronic properties.
+The urgent demand for new technologies has greatly exceeded the capabilities of current materials research. 
+In the past decades, computational modelling has been playing an increasingly important role in accelerating materials discovery and innovation. Understanding the atomic structure of a material is the first step in materials design. Our group has been focusing on the development of various computational methods/codes for materials discovary. In the mean time, we also develop and employ different levels of physical simulation techniques (electronic structure calculation, molecular dynamics, .etc) to investigate the materials' structure-property relation. 
 
 # Areas of Interest
 At present, we are primarily interested in the following subjects:
