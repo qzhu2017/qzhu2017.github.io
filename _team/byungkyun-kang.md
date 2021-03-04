@@ -1,12 +1,12 @@
 ---
 title: "Byungkyun Kang"
-excerpt: "Post-Doctoral Scholars"
+excerpt: "Post-Doctoral Scholar"
 header:
   teaser: /assets/images/team/bk.jpg
 sidebar:
   - title: "Position"
     image: /assets/images/team/bk.jpg
-    text: "Post-Doctoral Scholars"
+    text: "Post-Doctoral Scholar"
   - title: "Research Interests"
     text: "<ul>
     <li> Computational physics, code development"
