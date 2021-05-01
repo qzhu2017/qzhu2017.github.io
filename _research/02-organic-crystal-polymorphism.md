@@ -7,7 +7,7 @@ The similarities and differences among structures of polymorphic molecular compo
 
 
 # Crystal Structure Prediction based EA
-Since 2012, I have been developing the code to study the crystal packing of  small molecules such as ice, ammonia, methane which are of great interests in planetary science. As such, I implented a method based on the evolutionary algorithms into the [USPEX](/research/uspex) code. In the past years, We have successfully solved a series of elusive crystal structures of a number of molecules which were unable to be fully determined in experiment. In 2015, I also participated the sixth Blind Test for Organic Structure Prediction organized by Cambridge Crystallographic Data Centre (CCDC). Among the five proposed challenges, our team successfully solved the two challenges which are rigid molecule and co-crystal made of nearly rigid molecules. Now we are able to do better with the improved methods. We welcome any collaboration from experiment and theory who has relevant projects in planetary sciences, pharmaceutics, pigments, high energy explosives and organic semiconductors.
+Since 2012, I have been developing the code to study the crystal packing of  small molecules such as ice, ammonia, methane which are of great interests in planetary science. As such, I implemented a method based on the evolutionary algorithms into the [USPEX](/research/uspex) code. In the past years, We have successfully solved a series of elusive crystal structures of a number of molecules which were unable to be fully determined in experiment. In 2015, I also participated the sixth Blind Test for Organic Structure Prediction organized by Cambridge Crystallographic Data Centre (CCDC). Among the five proposed challenges, our team successfully solved the two challenges which are rigid molecule and co-crystal made of nearly rigid molecules. Now we are able to do better with the improved methods. We welcome any collaboration from experiment and theory who has relevant projects in planetary sciences, pharmaceutics, pigments, high energy explosives and organic semiconductors.
 
 <figure>
 	<a href="/assets/images/organic-crystal-polymorphism/organic-crystals.jpg"><img src="/assets/images/organic-crystal-polymorphism/organic-crystals.jpg"></a>
@@ -19,7 +19,7 @@ See [APS Highlights](https://www.aps.anl.gov/APS-Science-Highlight/2017-05-03/an
 See [ESRF Highlights](http://www.esrf.eu/home/UsersAndScience/Publications/Highlights/highlights-2016/SOM/SOM06.html)
 
 # New code development
-While the previous EA-CSP method has been successfully applied to many molecules. It is getting difficult to main the code and implement new functions. Since 2018, my group began to work on a new code _[PyXtal](/research/pyxtal)_ to provide a more fundamental tool to facilitate the crystal structre prediction. 
+While the previous EA-CSP method has been successfully applied to many molecules. It is getting difficult to maintain the code and implement new functions. Since 2018, my group began to work on a new code _[PyXtal](/research/pyxtal)_ to provide a more fundamental tool to facilitate the crystal structure prediction. 
 
 ![pxtal](https://raw.githubusercontent.com/qzhu2017/PyXtal//master/images/256px_type1.png)
 ![water](https://raw.githubusercontent.com/qzhu2017/PyXtal//master/images/water.gif){: width="400px" style="float:right" }
