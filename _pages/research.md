@@ -32,7 +32,7 @@ Our group is also part of the [Catalysts Institute](https://alsdcgroup.wordpress
 # Fundings:
 We acknowledge the following funding agencies for their generous support
 - UNLV (Start up)
+- DOE
 - NSF
 - SONY
 - NASA
-- DOE (subcontract)
