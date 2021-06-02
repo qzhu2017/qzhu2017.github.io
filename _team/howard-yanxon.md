@@ -1,12 +1,12 @@
 ---
 title: "Howard Yanxon"
-excerpt: "Post-Doctoral Scholars"
+excerpt: "Post-Doctoral Scholar"
 header:
   teaser: /assets/images/team/howard-yanxon.jpg
 sidebar:
   - title: "Position"
     image: /assets/images/team/howard-yanxon.jpg
-    text: "Post-Doctoral Scholars"
+    text: "Post-Doctoral Scholar"
   - title: "Research Interests"
     text: "<ul>
     <li> Condensed matter physics
