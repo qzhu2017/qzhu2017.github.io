@@ -12,4 +12,4 @@ sidebar:
     <li> Computational physics"
 ---
 
-Dr. Yanling Li is a professor in Physics from Jiangsu Normal University China. His expertise is in computational physics and material sciences. His recent work focuses on studying materials at extreme conditions and the unexpected change in materials' physical and chemical properties under high pressure. He became a visitor of Zhu's group in October 2017.
+Dr. Yanling Li is a professor in Physics from Jiangsu Normal University China. His expertise is in computational physics and material sciences. His recent work focuses on studying materials at extreme conditions and the unexpected change in materials' physical and chemical properties under high pressure. He visited Zhu's group between 2017-2018 for six months.
