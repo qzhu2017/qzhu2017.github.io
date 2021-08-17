@@ -1,6 +1,6 @@
 ---
 title: "Howard Yanxon"
-excerpt: "Post-Doctoral Scholar"
+excerpt: "Past Member"
 header:
   teaser: /assets/images/team/howard-yanxon.jpg
 sidebar:
