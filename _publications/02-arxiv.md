@@ -4,8 +4,18 @@ permalink: /publications/arxiv/
 excerpt: "Online submissions to the arXiv"
 ---
 
-1. Kang B., Vincent J., Croizer P., **Zhu Q** (2021).
-__[The role of surface spin polarization on ceria-supported Pt nanoparticles](http://arxiv.org/abs/2110.00710)__. 
-(Open Access: [PDF](https://arxiv.org/pdf/2110.00710.pdf))
+1. Santos-Florez P. A., Yanxon H,Kang B, Yao Y-S, **Zhu Q** (2022).
+__[Size-Dependent Nucleation in Crystal Phase Transition from Machine Learning Metadynamics](https://arxiv.org/abs/2205.13631)__. 
+(Open Access: [PDF](https://arxiv.org/pdf/2205.13631.pdf))
+
+1. **Zhu Q**, Kang B, Parrish K (2022).
+Symmetry Relation Database and Its Application to Ferroelectric Materials Discovery.
+(To appear soon)
+
+1. **Zhu Q**, Hattori, S (2022).
+Organic Crystal Structure Prediction and its application to Materials Design.
+(To appear soon)
+
+
 
 
