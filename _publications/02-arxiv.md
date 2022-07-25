@@ -16,6 +16,6 @@ Symmetry Relation Database and Its Application to Ferroelectric Materials Discov
 Organic Crystal Structure Prediction and its application to Materials Design.
 (To appear soon)
 
-
-
-
+1. Santos-Florez P. A., Dai S-C, Yao Y, Yanxon H, Li L,Wang Y-J, **Zhu Q**, Yu X-X (2022).
+__[Short-range order and its impacts on the BCC NbMoTaW multi-principal element alloy by the machine-learning potential](https://arxiv.org/abs/2207.09010)__
+(Open Access: [PDF](https://arxiv.org/abs/2207.09010))
