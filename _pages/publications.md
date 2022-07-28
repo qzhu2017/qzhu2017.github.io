@@ -3,6 +3,8 @@ title: "Publications"
 permalink: /publications/
 sidebar:
   nav: "publications"
+redirect_from:
+   - /publications/papers/
 ---
 # [Books / Chapters](/publications/books-chapters/)
 Contributions to books or included chapters.
