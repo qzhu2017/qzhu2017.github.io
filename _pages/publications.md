@@ -3,8 +3,6 @@ title: "Publications"
 permalink: /publications/
 sidebar:
   nav: "publications"
-redirect_from:
-   - /papers/
 ---
 # [Books / Chapters](/publications/books-chapters/)
 Contributions to books or included chapters.
@@ -12,7 +10,7 @@ Contributions to books or included chapters.
 # [arXiv](/publications/arxiv/)
 Online submissions to the arXiv.
 
-# [Papers](/publications/papers/2022/)
+# Papers
 Peer-reviewed journal articles by year.
 - [2022](/publications/papers/2022/)
 - [2021](/publications/papers/2021/)
