@@ -10,9 +10,10 @@ Contributions to books or included chapters.
 # [arXiv](/publications/arxiv/)
 Online submissions to the arXiv.
 
-# [Papers](/publications/papers/2022/)
+# [Papers](/publications/papers/all/)
 Peer-reviewed journal articles by year.
 
+ - [All](/publications/papers/all/)
  - [2022](/publications/papers/2022/)
  - [2021](/publications/papers/2021/)
  - [2020](/publications/papers/2020/)
