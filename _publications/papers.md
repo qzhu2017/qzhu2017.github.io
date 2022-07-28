@@ -1,6 +1,6 @@
 ---
 title: "Papers (all)"
-permalink: /publications/papers/all
+permalink: /publications/papers/all/
 excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
