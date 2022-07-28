@@ -47,7 +47,7 @@ publications:
       - title: "arXiv"
         url: /publications/arxiv/
   - title: "Papers"
-    url: /publications/papers/2022/
+    url: /publications/papers/all/
     children:
       - title: "2022"
         url: /publications/papers/2022/
