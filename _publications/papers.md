@@ -1,7 +1,9 @@
 ---
 title: "Papers (all)"
-permalink: /papers/
+permalink: /publications/papers/
 excerpt: "Peer-reviewed journal articles"
+redirect_from:
+    - /papers/
 ---
 
 1. Kang B., Vincent J., Lee Y, L-Q, Ke, Croizer P., **Zhu Q** (2022).
