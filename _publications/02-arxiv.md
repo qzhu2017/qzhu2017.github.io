@@ -24,6 +24,6 @@ __[Short-range order and its impacts on the BCC NbMoTaW multi-principal element 
 __[Quantification of Crystal Packing Similarity from Spherical Harmonic Transform](https://arxiv.org/abs/2207.12548)__	
 (Open Access: [PDF](https://arxiv.org/abs/2207.12548))
 
-1.Kang B, **Zhu Q** (2022).
+1. Kang B, **Zhu Q** (2022).
 Spin-spin interaction in non-magnetic transition metal oxides through doping light elements.
 (To appear soon)
