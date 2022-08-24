@@ -9,12 +9,8 @@ __[Size-Dependent Nucleation in Crystal Phase Transition from Machine Learning M
 (Open Access: [PDF](https://arxiv.org/pdf/2205.13631.pdf))
 
 1. **Zhu Q**, Kang B, Parrish K (2022).
-Symmetry Relation Database and Its Application to Ferroelectric Materials Discovery.
-(To appear soon)
-
-1. **Zhu Q**, Hattori, S (2022).
-Organic Crystal Structure Prediction and its application to Materials Design.
-(Accepted by J. Mater. Res. 2023 Early Career Scholars issue)
+__[Symmetry Relation Database and Its Application to Ferroelectric Materials Discovery](https://arxiv.org/abs/2208.10655)__.
+(Open Access: [PDF](https://arxiv.org/abs/2208.10655.pdf))
 
 1. Santos-Florez P. A., Dai S-C, Yao Y, Yanxon H, Li L,Wang Y-J, **Zhu Q**, Yu X-X (2022).
 __[Short-range order and its impacts on the BCC NbMoTaW multi-principal element alloy by the machine-learning potential](https://arxiv.org/abs/2207.09010)__
