@@ -6,7 +6,7 @@ header:
 sidebar:
   - title: "Position"
     image: /assets/images/team/david-zagaceta.jpg
-    text: "Graduate Assistant"
+    text: "Past Member"
   - title: "Research Interests"
     text: "<ul>
     <li> Computational physics
