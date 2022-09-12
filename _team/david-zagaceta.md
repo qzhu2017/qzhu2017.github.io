@@ -1,6 +1,6 @@
 ---
 title: "David Zagaceta"
-excerpt: "Graduate Assistant"
+excerpt: "Past Member"
 header:
   teaser: /assets/images/team/david-zagaceta.jpg
 sidebar:
