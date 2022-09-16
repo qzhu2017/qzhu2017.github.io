@@ -5,10 +5,6 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
-1. **Zhu Q**, Hattori, S (2022).
-Organic Crystal Structure Prediction and its application to Materials Design.
-(Accepted by J. Mater. Res. 2023 Early Career Scholars issue)
-
 1. **Zhu Q**, Kang B, Parrish K (2022).
 __[Symmetry Relation Database and Its Application to Ferroelectric Materials Discovery](https://arxiv.org/abs/2208.10655)__.
 (Accepted by MRS Communications Early Career Materials Researcher special issue)
@@ -17,10 +13,13 @@ __[Symmetry Relation Database and Its Application to Ferroelectric Materials Dis
 __[Size-Dependent Nucleation in Crystal Phase Transition from Machine Learning Metadynamics](https://arxiv.org/abs/2205.13631)__. 
 (Accepted by Phys. Rev. Lett.)
 
+1. **Zhu Q**, Hattori, S (2022).
+__[Organic Crystal Structure Prediction and its application to Materials Design](https://doi.org/10.1557/s43578-022-00698-9)__.
+J. Mater. Res. 2023 Early Career Scholars issue
+
 1. Kang B., Vincent J., Lee Y, L-Q, Ke, Croizer P., **Zhu Q** (2022).
 __[Modeling surface spin polarization on ceria-supported Pt nanoparticles](https://doi.org/10.1088/1361-648X/ac62a3)__. 
 J. Phys.: Condens. Matter 34 (2022) 255002
-
 
 1. Yang X-H., Parrish K., Li Y-L., Sa B-S., Zhan H-B., **Zhu Q** (2021).
 __[Switchable Atomically Thin 2D Electrides from First-principles Prediction](https://link.aps.org/doi/10.1103/PhysRevB.103.125103)__. 
