@@ -21,6 +21,7 @@ A key to enable large scale coordination in science is to develop open-source so
 - [PyXtal](/research/pyxtal): a Python library for crystal structure generation
 - [PyXtal_FF](/research/pyxtalff): a Python library for force field development
 - [vasprun-xml](/research/vasprun): a Python library for parsing vasprun.xml
+- [CMS](/research/cms): a GitHub repository for group activities
 
 # Data Services
 - [Topological Phononic Materials Database](https://tpdb.physics.unlv.edu)
