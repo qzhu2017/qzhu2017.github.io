@@ -40,17 +40,17 @@ feature_row:
     btn_class: "btn--info"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/news/PRL_cover.pdf
+  - image_path: /assets/images/news/2022-PRL.png
     alt: "Machine learning Force Field"
-    title: "Latest paper"
+    title: "Latest paper (2022/10/28)"
     excerpt: "Simulation of GaN’s phase transition using the machine learning metadynamics"
     url: "/publications/pub-PRL/"
     btn_class: "btn--info"
     btn_label: "Learn more"
 
   - image_path: /assets/images/news/2022-CGD.jpeg
-    alt: "Machine learning Force Field"
-    title: "Latest paper"
+    alt: "Crystal packing"
+    title: "Latest paper (2022/10/27)"
     excerpt: "Quantification of Crystal Packing Similarity from Spherical Harmonic Transform"
     url: "/publications/pub-CGD/"
     btn_class: "btn--info"
