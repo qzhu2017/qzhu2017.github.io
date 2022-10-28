@@ -40,28 +40,29 @@ feature_row:
     btn_class: "btn--info"
     btn_label: "Learn more"
 
-#  - image_path: /assets/images/home/defects-in-materials.jpg
-#    alt: "defects in materials"
-#    title: "Defects in Materials"
-#    excerpt: "Understanding the structural and functional properties influenced by defects is key to optimizing next-gen materials needed for advanced energy applications."
-#    url: "/research/defects-in-materials/"
-#    btn_class: "btn--info"
-#    btn_label: "Learn more"
+  - image_path: /assets/images/home/defects-in-materials.jpg
+    alt: "defects in materials"
+    title: "Defects in Materials"
+    excerpt: "Understanding the structural and functional properties influenced by defects is key to optimizing next-gen materials needed for advanced energy applications."
+    url: "/research/defects-in-materials/"
+    btn_class: "btn--info"
+    btn_label: "Learn more"
+
   - image_path: /assets/images/news/PRL_cover.pdf
     alt: "Machine learning Force Field"
-    title: "Latest paper in PRL cover (2022/10/28)!"
-    excerpt: "!"
+    title: "Latest paper"
+    excerpt: "Simulation of GaN’s phase transition using the machine learning metadynamics"
     url: "/publications/pub-PRL/"
     btn_class: "btn--info"
     btn_label: "Learn more"
 
-#     alt: "materials under extreme conditions"
-#     title: "Materials Under Extreme Conditions"
-#     excerpt: "Extended solids formed under ultrahigh pressure exhibit dramatic changes in their properties and may offer significant improvements over their original forms."
-#     url: "/research/materials-under-extreme-conditions/"
-#     btn_class: "btn--info"
-#     btn_label: "Learn more"
----
+  - image_path: /assets/images/news/2022-CGD.jpeg
+    alt: "Machine learning Force Field"
+    title: "Latest paper"
+    excerpt: "Quantification of Crystal Packing Similarity from Spherical Harmonic Transform"
+    url: "/publications/pub-CGD/"
+    btn_class: "btn--info"
+    btn_label: "Learn more"
 
 {% include feature_row id="intro" type="center" %}
 
