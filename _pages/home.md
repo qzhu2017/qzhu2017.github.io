@@ -40,14 +40,6 @@ feature_row:
     btn_class: "btn--info"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/home/defects-in-materials.jpg
-    alt: "defects in materials"
-    title: "Defects in Materials"
-    excerpt: "Understanding the structural and functional properties influenced by defects is key to optimizing next-gen materials needed for advanced energy applications."
-    url: "/research/defects-in-materials/"
-    btn_class: "btn--info"
-    btn_label: "Learn more"
-
   - image_path: /assets/images/news/PRL_cover.pdf
     alt: "Machine learning Force Field"
     title: "Latest paper"
