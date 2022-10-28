@@ -47,7 +47,6 @@ feature_row:
 #    url: "/research/defects-in-materials/"
 #    btn_class: "btn--info"
 #    btn_label: "Learn more"
- feature_row2:
   - image_path: /assets/images/news/PRL_cover.pdf
     alt: "Machine learning Force Field"
     title: "Latest paper in PRL cover (2022/10/28)!"
