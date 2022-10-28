@@ -32,6 +32,14 @@ feature_row:
     btn_class: "btn--info"
     btn_label: "Learn more"
 
+  - image_path: /assets/images/home/defects-in-materials-alt.jpg
+    alt: "defects in materials"
+    title: "Defects in Materials"
+    excerpt: "Understanding the structural and functional properties influenced by defects is key to optimizing next-gen materials needed for advanced energy applications."
+    url: "/research/defects-in-materials/"
+    btn_class: "btn--info"
+    btn_label: "Learn more"
+
   - image_path: /assets/images/home/tpdb.jpeg
     alt: "Topological Phonon database"
     title: "Topological phonon database!"
@@ -39,6 +47,7 @@ feature_row:
     url: "https://tpdb.physics.unlv.edu/"
     btn_class: "btn--info"
     btn_label: "Learn more"
+
 
   - image_path: /assets/images/news/2022-PRL.png
     alt: "Machine learning Force Field"
@@ -55,6 +64,7 @@ feature_row:
     url: "/publications/pub-CGD/"
     btn_class: "btn--info"
     btn_label: "Learn more"
+---
 
 {% include feature_row id="intro" type="center" %}
 
