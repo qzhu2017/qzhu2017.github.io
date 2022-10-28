@@ -23,6 +23,7 @@ feature_row:
     url: "/research/materials-informatics/"
     btn_class: "btn--info"
     btn_label: "Learn more"
+
   - image_path: /assets/images/home/organic-crystal-polymorphism.jpg
     alt: "organic crystal polymorphism"
     title: "Organic Crystal Polymorphism"
@@ -30,6 +31,7 @@ feature_row:
     url: "/research/organic-crystal-polymorphism/"
     btn_class: "btn--info"
     btn_label: "Learn more"
+
   - image_path: /assets/images/home/tpdb.jpeg
     alt: "Topological Phonon database"
     title: "Topological phonon database!"
@@ -37,6 +39,7 @@ feature_row:
     url: "https://tpdb.physics.unlv.edu/"
     btn_class: "btn--info"
     btn_label: "Learn more"
+
 #  - image_path: /assets/images/home/defects-in-materials.jpg
 #    alt: "defects in materials"
 #    title: "Defects in Materials"
@@ -44,7 +47,15 @@ feature_row:
 #    url: "/research/defects-in-materials/"
 #    btn_class: "btn--info"
 #    btn_label: "Learn more"
-# feature_row2:
+ feature_row2:
+  - image_path: /assets/images/news/PRL_cover.pdf
+    alt: "Machine learning Force Field"
+    title: "Latest paper in PRL cover (2022/10/28)!"
+    excerpt: "!"
+    url: "/publications/pub-prl/"
+    btn_class: "btn--info"
+    btn_label: "Learn more"
+
 
 #     alt: "materials under extreme conditions"
 #     title: "Materials Under Extreme Conditions"

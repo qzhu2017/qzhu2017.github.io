@@ -9,11 +9,12 @@ Trial-and-error experiments have dominated the discovery of new materials in the
 Atomistic simulations have been used routinely to model the physical behaviors of many complex systems. The accuracy of the simulations is highly dependent on the underlying potential energy surface (PES) of the system. In principle, MD simulations can be based on quantum-mechanical or classical force field methods. The ab initio MD (AIMD) simulations usually employ density functional theory (DFT) approximation, which can provide a reliable representation of the system but is be limited to only a few hundreds of atoms. On the other hand, the classical MD method can model large systems at long-time scale, but they are often inadequate to describe the quantitative properties of the system.
 
 Recently, machine learning methods have been widely applied to resolve the dilemma in comprising between accuracy and cost. The machine learning interatomic potential (MLIAP) are trained by minimizing the cost function to attune the model to deliberately describe the ab initio data. The cost of atomistic simulation is orders of magnitude lower than the quantum mechanical simulation, allowing the system to be scaled up to about one million atoms.
-{% include figure image_path="/assets/images/materials-informatics/MLIAP.jpeg" caption="**Figure 1.** Machine learning potentials compared to the traditional quantum mechanical simulation" %}
+{% include figure image_path="/assets/images/materials-informatics/MLIAP.jpeg" caption="**Figure .** Machine learning potentials compared to the traditional quantum mechanical simulation" %}
 
 Since 2019, our group has been developing the _[PyXtal\_FF](/research/pyxtalff/)_ ---a package for generating machine learning potentials. The aim of PyXtal\_FF is to promote the application of atomistic simulations by providing several choices of structural descriptors and machine learning regressions in one platform. Based on the given choice of structural descriptors (including the atom-centered symmetry functions, embedded atom density, SO4 bispectrum, and smooth SO3 power spectrum), PyXtal\_FF can train the MLPs with either the generalized linear regression or neural networks model, by simultaneously minimizing the errors of energy/forces/stress tensors in comparison with the data from the ab-initio simulation. The trained MLP model from PyXtal\_FF is interfaced with the Atomic Simulation Environment (ASE) package, which allows different types of light-weight simulations such as geometry optimization, molecular dynamics simulation, and physical properties prediction. Finally, we will illustrate the performance of PyXtal\_FF by applying it to investigate several material systems, including bulk, surfaces and nanoparticles. 
-{% include figure image_path="/assets/images/materials-informatics/pyxtal-ff.jpeg" caption="**Figure 2.** The current status of PyXtal\_FF (2020/08)" %}
+{% include figure image_path="/assets/images/materials-informatics/pyxtal-ff.jpeg" caption="**Figure.** The current status of PyXtal\_FF (2020/08)" %}
 
+{% include figure image_path="/assets/images/news/PRL_cover.pdf" caption="**Figure.** Snapshot of a molecular dynamics simulation of a phase transition in GaN showing the enthalpy per atom on a color scale that goes from blue to red. (PRL Cover)[https://journals.aps.org/prl/issues/129/18]%}
 
 ## Relevant works
 1. Yanxon H., Zagaceta D., Wood B.C., **Zhu Q.** (2020).
@@ -26,20 +27,29 @@ J. Appl. Phys., 128, 045113. (Open Access: [PDF](https://aip.scitation.org/doi/p
 1. Yanxon H., Zagaceta D., Tang B., Matteson D., Zhu Q. (2020).
 __[PyXtal FF: a Python Library for Automated Force Field Generation](https://arxiv.org/abs/2007.13012)__. (Open Access: [PDF](https://arxiv.org/pdf/2007.13012.pdf))
 
-
+1. Santos-Florez P. A., Yanxon H,Kang B, Yao Y-S, **Zhu Q** (2022).
+__[Size-Dependent Nucleation in Crystal Phase Transition from Machine Learning Metadynamics](https://doi.org/10.1103/PhysRevLett.129.185701)__. 
+Phys. Rev. Lett., 129, 185701 ([Cover image](https://journals.aps.org/prl/issues/129/18))
+(arXiv: [PDF](https://arxiv.org/abs/2205.13631))
 
 
 # Computational Materials Database
 In the past, the identification of new materials required labor-intensive efforts, which included raw materials synthesis and sample characterization. Considering the current size of materials data (~30,000 after the removal of duplicates and structures with partial occupation) in the Inorganic Crystal Structure Database (ICSD), it is impossible to investigate each compound by trial-and-error experiments. The high-throughput (HT) computational materials design, based on a search for target materials from a large database containing necessary thermodynamic and electronic properties for all available materials, has become popular in materials science in recent years. Our group is generally interested in combinning the advanced structure prediction techniques with the high-throughput screening to discover the materials with target functionalities. Specifically, our efforts are focusing on the electrides and topological phononic materials. 
 
 
-{% include figure image_path="/assets/images/materials-informatics/tpmd.png" caption="**Figure 3.** The schematic flowchart of high throughput screening on
+{% include figure image_path="/assets/images/materials-informatics/tpmd.png" caption="**Figure.** The schematic flowchart of high throughput screening on
 topological phonons. More details can be found at our _[online database](https://tpdb.physics.unlv.edu)_" %}
 
-{% include figure image_path="/assets/images/materials-informatics/electride.jpg" caption="**Figure 4.** The efforts on searching for the electrides. _[Source](/assets/pdfs/papers/2019-matter.pdf)_" %}
+{% include figure image_path="/assets/images/materials-informatics/electride.jpg" caption="**Figure.** The efforts on searching for the electrides. _[Source](/assets/pdfs/papers/2019-matter.pdf)_" %}
 
 
 ## Relevant works
+1. **Zhu Q**, Kang B, Parrish K (2022).
+__[Symmetry Relation Database and Its Application to Ferroelectric Materials Discovery](https://doi.org/10.1557/s43579-022-00268-4)__.
+MRS Communications, 12, 686–691 (Early Career Materials Researcher special issue)
+(arXiv: [PDF](https://arxiv.org/abs/2208.10655))
+
+
 1. Li J-X, Liu J-X, Baronett S.A., Li R-H, Wang L., **Zhu Q.** and Chen X-Q (2020).
 __[Computation and data driven discovery of topological phononic materials](https://arxiv.org/abs/2006.00705)__. (Open Access: [PDF](https://arxiv.org/pdf/2006.00705.pdf))
 
