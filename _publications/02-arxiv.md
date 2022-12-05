@@ -8,9 +8,5 @@ excerpt: "Online submissions to the arXiv"
 __[Short-range order and its impacts on the BCC NbMoTaW multi-principal element alloy by the machine-learning potential](https://arxiv.org/abs/2207.09010)__
 (Open Access: [PDF](https://arxiv.org/abs/2207.09010))
 
-1. Kang B, **Zhu Q** (2022).
-Spin-spin interaction in non-magnetic transition metal oxides through doping light elements.
-(To appear soon)
-
 1. Kang B, Kim H, Zhu Q, Park C. H. (2022).
 __[Impacts of f-d Kondo cloud on superconductivity of nickelates](https://arxiv.org/abs/2207.04388)__
