@@ -2,7 +2,7 @@
 title: "A highlight in Nature Materials"
 date: 2022-11-22T08:00:00
 categories:
-  - News
+  - Publications
 tags:
   - Machine learning
   - Phase transition
