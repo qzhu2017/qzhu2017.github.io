@@ -1,8 +1,8 @@
 ---
-title: "Farewell"
+title: "Farewell-Howard"
 date: 2021-08-15T08:00:00
 categories:
-  - Farewell
+  - Group Members
 tags:
   - Howard Yanxon
 ---
