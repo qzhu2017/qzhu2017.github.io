@@ -6,7 +6,7 @@ sidebar:
 ---
 # Overview
 The urgent demand for new technologies has greatly exceeded the capabilities of current materials research. 
-In the past decades, computational modelling has been playing an increasingly important role in accelerating materials discovery and innovation. Understanding the atomic structure of a material is the first step in materials design. Our group has been focusing on the development of various computational methods/codes for materials discovary. In the mean time, we also develop and employ different levels of physical simulation techniques (electronic structure calculation, molecular dynamics, .etc) to investigate the materials' structure-property relation. 
+In the past decades, computational modelling has been playing an increasingly important role in accelerating materials discovery and innovation. Understanding the atomic structure of a material is the first step in materials design. Our group has been focusing on the development of various computational methods/codes for materials discovery. In the mean time, we also develop and employ different levels of physical simulation techniques (electronic structure calculation, molecular dynamics, .etc) to investigate the materials' structure-property relation. 
 
 # Areas of Interest
 At present, we are primarily interested in the following subjects:
