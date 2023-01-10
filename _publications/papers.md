@@ -5,14 +5,18 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
+1. Siddiquee H., Broyles C., Kotta E., Liu S., Peng S., Kong T., Kang B., Zhu Q., Lee Y., Ke L-Q, Weng H., Denlinger J.D., Wray L.A., Ran S.(2023).
+__[Breakdown of the scaling relation of anomalous Hall effect in Kondo lattice ferromagnet USbTe](https://arxiv.org/abs/2212.12063)__.
+Nat. Commun., 
+
 1. Kang B, **Zhu Q** (2022).
 __[Spin-spin interaction in non-magnetic transition metal oxides through doping light elements](https://doi.org/10.1021/acs.jpcc.2c05979)__.
-J. Phys. Chem. C
+J. Phys. Chem. C, 126, 49, 21034–21039
 
 
 1. **Zhu Q**, Tang W-L, Hattori, S (2022).
 __[Quantification of Crystal Packing Similarity from Spherical Harmonic Transform](https://doi.org/10.1021/acs.cgd.2c00933)__	
-Cryst. Growth Des.
+Cryst. Growth Des., 22, 7308-7316
 (arXiv: [PDF](https://arxiv.org/abs/2207.12548))
 
 1. Santos-Florez P. A., Yanxon H,Kang B, Yao Y-S, **Zhu Q** (2022).
