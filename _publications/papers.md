@@ -5,6 +5,10 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
+1. Kang B, Kim H, Zhu Q, Park C. H. (2022).
+__[Impacts of f-d Kondo cloud on superconductivity of nickelates](https://arxiv.org/abs/2207.04388)__.
+Cell Rep. Phys. Sci.
+
 1. Siddiquee H., Broyles C., Kotta E., Liu S., Peng S., Kong T., Kang B., Zhu Q., Lee Y., Ke L-Q, Weng H., Denlinger J.D., Wray L.A., Ran S.(2023).
 __[Breakdown of the scaling relation of anomalous Hall effect in Kondo lattice ferromagnet USbTe](https://arxiv.org/abs/2212.12063)__.
 Nat. Commun., 
