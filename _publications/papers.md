@@ -5,7 +5,7 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
-1. Kang B, Kim H, Zhu Q, Park C. H. (2022).
+1. Kang B, Kim H, Zhu Q, Park C. H. (2023).
 __[Impacts of f-d Kondo cloud on superconductivity of nickelates](https://arxiv.org/abs/2207.04388)__.
 Cell Rep. Phys. Sci.
 
