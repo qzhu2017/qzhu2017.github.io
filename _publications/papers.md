@@ -10,8 +10,8 @@ __[Impacts of f-d Kondo cloud on superconductivity of nickelates](https://arxiv.
 Cell Rep. Phys. Sci.
 
 1. Siddiquee H., Broyles C., Kotta E., Liu S., Peng S., Kong T., Kang B., Zhu Q., Lee Y., Ke L-Q, Weng H., Denlinger J.D., Wray L.A., Ran S.(2023).
-__[Breakdown of the scaling relation of anomalous Hall effect in Kondo lattice ferromagnet USbTe](https://arxiv.org/abs/2212.12063)__.
-Nat. Commun., 
+__[Breakdown of the scaling relation of anomalous Hall effect in Kondo lattice ferromagnet USbTe](https://www.nature.com/articles/s41467-023-36221-9)__.
+Nat. Commun., 14, 527
 
 1. Kang B, **Zhu Q** (2022).
 __[Spin-spin interaction in non-magnetic transition metal oxides through doping light elements](https://doi.org/10.1021/acs.jpcc.2c05979)__.
