@@ -32,6 +32,7 @@ Our group is also part of the [Catalysts Institute](https://alsdcgroup.wordpress
 
 # Fundings:
 We acknowledge the following funding agencies for their generous support
+- UNCC (Start up)
 - UNLV (Start up)
 - DOE ([DE-SC0021970](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=91bb2f8c-9bf4-41bd-ab92-84adf3557899&rtc=24&PRoleId=10))
 - NSF ([OAC-1940272](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940272), [OAC-2117941](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2117941), [DMR-2142570](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2142570))
