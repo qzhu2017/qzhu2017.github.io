@@ -5,18 +5,23 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
+1. Chen W, Li L, Zhu Q, Zhuang H-L (2023).
+__[Chemical short‐range order in complex concentrated alloys](https://doi.org/10.1557/s43577-023-00575-8)__
+MRS Bulletin., 48, 
+
+
 1. Santos-Florez P. A., Dai S-C, Yao Y, Yanxon H, Li L,Wang Y-J, **Zhu Q**, Yu X-X (2022).
 __[Short-range order and its impacts on the BCC NbMoTaW multi-principal element alloy by the machine-learning potential](https://doi.org/10.1016/j.actamat.2023.119041)__
-Acta Mater.
+Acta Mater., 255, 119041
 (Open Access: [PDF](https://arxiv.org/abs/2207.09010))
 
 1. Huang H-M, Zhu Q, Blatov V. A, Oganov A. R, Wei X-T, Jiang P, and Li Y-L (2023).
 __[Novel Topological Motifs and Superconductivity in Li-Cs System](https://pubs.acs.org/doi/10.1021/acs.nanolett.3c00875)__.
-Nano Lett.
+Nano Lett., 23, 11, 5012–5018
 
 1. Kang B, Kim H, Zhu Q, Park C. H. (2023).
 __[Impacts of f-d Kondo cloud on superconductivity of nickelates](https://arxiv.org/abs/2207.04388)__.
-Cell Rep. Phys. Sci.
+Cell Rep. Phys. Sci., 4, 101325
 
 1. Siddiquee H., Broyles C., Kotta E., Liu S., Peng S., Kong T., Kang B., Zhu Q., Lee Y., Ke L-Q, Weng H., Denlinger J.D., Wray L.A., Ran S.(2023).
 __[Breakdown of the scaling relation of anomalous Hall effect in Kondo lattice ferromagnet USbTe](https://www.nature.com/articles/s41467-023-36221-9)__.
