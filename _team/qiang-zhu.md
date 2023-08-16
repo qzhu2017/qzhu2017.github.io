@@ -15,7 +15,7 @@ sidebar:
     <li> Molecular dynamic simulation and phase transitions"
 ---
 
-Qiang Zhu (ORCiD: [0000-0002-9892-0344](https://orcid.org/0000-0002-9892-0344))is an Associate Professor in the Department of Mechanical Engineerng and Energy Scienceat the University of North Carolina at Charlotte (UNCC). Prior to joining UNCC, he was an Associate Professor in the Department of Physics and Astronomy at the University of Nevada, Las Vegas (UNLV). Qiang holds a Ph.D. in Mineral Physics from the State University of New York at Stony Brook, as well as a B.S. in Materials Science and Engineering from Beijing University of Aeronautics and Astronautics in China. He joined UNLV in October 2016. He is also the recipients of 2021 Early Career Awards from both the National Science Foundation (NSF) and the U.S. Department of Energy (DOE).
+Qiang Zhu (ORCiD: [0000-0002-9892-0344](https://orcid.org/0000-0002-9892-0344))is an Associate Professor in the Department of Mechanical Engineerng and Energy Scienceat the University of North Carolina at Charlotte (UNCC). Prior to joining UNCC, he was an Associate Professor in the Department of Physics and Astronomy at the University of Nevada, Las Vegas (UNLV) between 2016 and 2023. Qiang holds a Ph.D. in Mineral Physics from the State University of New York at Stony Brook, as well as a B.S. in Materials Science and Engineering from Beijing University of Aeronautics and Astronautics in China. He is also the recipients of 2021 Early Career Awards from both the National Science Foundation (NSF) and the U.S. Department of Energy (DOE).
 
 ## Education
 - __2009-2013__ - Ph.D. in Mineral Physics, Stony Brook University.
