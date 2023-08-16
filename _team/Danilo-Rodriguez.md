@@ -1,6 +1,6 @@
 ---
 title: "Danilo Arturo Rodriguez"
-excerpt: "Graduate Assistant"
+excerpt: "Past Member"
 header:
   teaser: /assets/images/team/DAR.jpeg
 sidebar:
