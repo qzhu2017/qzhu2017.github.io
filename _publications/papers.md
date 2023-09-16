@@ -5,6 +5,17 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
+1. Santos-Florez P. A., Hattori, S, **Zhu Q** (2023).
+__[Bending Deformation Driven by Molecular Rotation](https://link.aps.org/doi/10.1103/PhysRevResearch.5.033185)__
+Phys. Rev. Research 5, 033185 
+(Open Access: [PDF](https://link.aps.org/doi/10.1103/PhysRevResearch.5.033185))
+
+1. Kang, B, Parrish, K, **Zhu Q** (2023).
+__[First-principles Investigation of Electrides Derived from Sodalites](https://doi.org/10.1021/acs.jpcc.3c04681)__
+J. Phys. Chem. C, XXXX, XXXX
+(Open Access: [PDF](/assets/pdfs/papers/2023-JPCC-Electride.pdf))
+
+
 1. Chen W, Li L, Zhu Q, Zhuang H-L (2023).
 __[Chemical short‐range order in complex concentrated alloys](https://doi.org/10.1557/s43577-023-00575-8)__
 MRS Bulletin., 48, 
