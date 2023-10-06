@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Computational Materials Science"
+title: "Materials Modelling and Informatics"
 permalink: /
 hidden: true
 header:
