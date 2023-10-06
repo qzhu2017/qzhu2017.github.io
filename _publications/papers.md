@@ -18,7 +18,7 @@ J. Phys. Chem. C, XXXX, XXXX
 
 1. Chen W, Li L, Zhu Q, Zhuang H-L (2023).
 __[Chemical short‐range order in complex concentrated alloys](https://doi.org/10.1557/s43577-023-00575-8)__
-MRS Bulletin., 48, 
+MRS Bulletin, 48, 762-768
 
 
 1. Santos-Florez P. A., Dai S-C, Yao Y, Yanxon H, Li L,Wang Y-J, **Zhu Q**, Yu X-X (2022).
