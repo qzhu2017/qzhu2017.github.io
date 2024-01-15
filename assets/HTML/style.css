@@ -1,0 +1,36 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    gap: 50px;
+}
+
+#leftSide, #rightSide {
+    flex: 1;
+}
+
+label {
+    display: block;
+    margin-top: 20px;
+}
+
+input[type="file"] {
+    margin-bottom: 10px;
+}
+
+#selectedName, #selectedQuestion {
+    margin-top: 20px;
+    font-size: 20px;
+    color: darkblue;
+    font-weight: bold;
+}
+
+/* Additional styling as needed */
+
