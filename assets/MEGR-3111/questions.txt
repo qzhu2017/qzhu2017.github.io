@@ -1,13 +1,1 @@
-What's your favorite 3D shape?
-What's your favorite 2D shape?
-How old are you?
-What's the biggest prime number less than 100?
-What's your favorite even number?
-What's your favorite number?
-What's your favorite animal?
-What's your favorite word?
-What's 100 times 100?
-What's your favorite name?
-What's your favorite letter?
-What year were your born?
-When is your birthday?
+Questions?
