@@ -7,9 +7,7 @@ window.onload = function() {
 
     document.getElementById("selectButton").addEventListener("click", function() {
         var names = document.querySelector("#namesList ul").children;
-
         var selectedName = names[Math.floor(Math.random() * names.length)].textContent;
-
         document.getElementById("selectedName").innerHTML = `<strong>Selected Name: ${selectedName}</strong>`;
     });
 };
@@ -19,7 +17,7 @@ function displayList(text, elementId) {
     var html = '<ul>';
     for (var i = 0; i < items.length; i++) {
         if (items[i].trim() === '') continue;
-        var cells = rows[i].split(',');
+        var cells = items[i].split(',');
         var name = cells[0] + cells[1];
         html += '<li>' + name + '</li>';
     }
