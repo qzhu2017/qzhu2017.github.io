@@ -17,7 +17,7 @@ window.onload = function() {
 function displayList(text, elementId) {
     var items = text.split('\n');
     var html = '<ul>';
-I    for (var i = 0; i < items.length; i++) {
+    for (var i = 0; i < items.length; i++) {
         if (items[i].trim() === '') continue;
         var cells = rows[i].split(',');
         var name = cells[0] + cells[1];
