@@ -8,7 +8,7 @@ window.onload = function() {
     document.getElementById("selectButton").addEventListener("click", function() {
         var names = document.querySelector("#namesList ul").children;
         var selectedName = names[Math.floor(Math.random() * names.length)].textContent;
-        document.getElementById("selectedName").innerHTML = `<strong>Selected Name: ${selectedName}</strong>`;
+        document.getElementById("selectedName").innerHTML = `Selected Name: </br></br><strong>${selectedName}</strong>`;
     });
 };
 
