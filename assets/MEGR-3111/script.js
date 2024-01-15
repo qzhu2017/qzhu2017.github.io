@@ -17,9 +17,11 @@ window.onload = function() {
 function displayList(text, elementId) {
     var items = text.split('\n');
     var html = '<ul>';
-    for (var i = 0; i < items.length; i++) {
+I    for (var i = 0; i < items.length; i++) {
         if (items[i].trim() === '') continue;
-        html += '<li>' + items[i].trim() + '</li>';
+        var cells = rows[i].split(',');
+        var name = cells[0] + cells[1];
+        html += '<li>' + name + '</li>';
     }
     html += '</ul>';
     document.getElementById(elementId).innerHTML = html;
