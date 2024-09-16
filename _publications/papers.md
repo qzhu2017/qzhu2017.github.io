@@ -5,6 +5,17 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
+1. Hattori, S, **Zhu Q** (2024).
+__[Revisiting Aspirin Polymorphic Stability Using a Machine Learning Potential](https://pubs.acs.org/doi/10.1021/acsomega.4c04782)__
+ACS Omega, 9, 34, 36589-36599
+(Open Access: [PDF](https://doi.org/10.1021/acsomega.4c04782))
+
+
+1. AI-Handawi, M-B, Commnis P, Dalaq A. S.,  Santos-Florez P. A., ... **Zhu Q**, Daqaq M, Li L, Naumov P (2024).
+__[Ferroelastic Ionic Organic Crystals that Self-Heal to 95%](https://doi.org/10.1038/s41467-024-51625-x)__
+Nat. Commun., 15, 8095
+(Open Access: [PDF](https://doi.org/10.1038/s41467-024-51625-x))
+
 1. Santos-Florez P. A., Hattori, S, **Zhu Q** (2023).
 __[Bending Deformation Driven by Molecular Rotation](https://link.aps.org/doi/10.1103/PhysRevResearch.5.033185)__
 Phys. Rev. Research 5, 033185 
