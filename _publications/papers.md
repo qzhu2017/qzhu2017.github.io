@@ -5,6 +5,12 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
+1. Zhu Q, Hattori S. (2024). 
+[Automated High-throughput Organic Crystal Structure Prediction via Population-based Sampling](https://arxiv.org/abs/2408.08843)
+
+1. Liu C, Mukta M, Kang B, Zhu Q (2024). 
+[Semiconducting Electrides Derived From Sodalite: A First-principles Study](https://arxiv.org/abs/2409.17249)
+
 1. Hattori, S, **Zhu Q** (2024).
 __[Revisiting Aspirin Polymorphic Stability Using a Machine Learning Potential](https://pubs.acs.org/doi/10.1021/acsomega.4c04782)__
 ACS Omega, 9, 34, 36589-36599
