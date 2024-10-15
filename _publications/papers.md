@@ -11,6 +11,13 @@ redirect_from:
 1. Liu C, Mukta M, Kang B, Zhu Q (2024). 
 [Semiconducting Electrides Derived From Sodalite: A First-principles Study](https://arxiv.org/abs/2409.17249)
 
+1. Parrish K, Hu Q-Y, Zhu Q (2024). 
+[PyLRO: A Python Calculator for Analyzing Long-Range Structural Order](https://arxiv.org/abs/2410.09586)
+
+1. Yao Y, Cappola J, Zhang Z-Y, Zhu Q, Cai W-J, Yu X-X, Li L (2024). 
+__[Nanostructure and Dislocation Interactions in Refractory Complex Concentrated Alloy: From Chemical Short-Range Order to Nanoscale B2 Precipitates](https://doi.org/10.1016/j.actamat.2024.120457)__
+Acta Mater., 281, 120457
+
 1. Hattori, S, **Zhu Q** (2024).
 __[Revisiting Aspirin Polymorphic Stability Using a Machine Learning Potential](https://pubs.acs.org/doi/10.1021/acsomega.4c04782)__
 ACS Omega, 9, 34, 36589-36599
