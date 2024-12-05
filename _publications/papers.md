@@ -5,14 +5,22 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
-1. Zhu Q, Hattori S. (2024). 
-[Automated High-throughput Organic Crystal Structure Prediction via Population-based Sampling](https://arxiv.org/abs/2408.08843)
-
 1. Liu C, Mukta M, Kang B, Zhu Q (2024). 
 [Semiconducting Electrides Derived From Sodalite: A First-principles Study](https://arxiv.org/abs/2409.17249)
 
 1. Parrish K, Hu Q-Y, Zhu Q (2024). 
 [PyLRO: A Python Calculator for Analyzing Long-Range Structural Order](https://arxiv.org/abs/2410.09586)
+
+1. Zhu Q, Hattori S. (2024). 
+__[Automated High-throughput Organic Crystal Structure Prediction via Population-based Sampling](https://doi.org/10.1039/D4DD00264D)__ 
+Digital Discovery, 2024, Advance Article
+(Open Access: [PDF](https://doi.org/10.1039/D4DD00158C))
+
+
+1. Levy D, Panigrahi S-S, Kaba S-O, Zhu Q, Galkin M, Miret S, Ravanbakhsh S. (2024)
+__[SymmCD: Symmetry-Preserving Crystal Generation with Diffusion Models](https://openreview.net/forum?id=V7x2KZQn2v)__
+AI for Accelerated Materials Design - NeurIPS 2024,
+(Open Access: [PDF](https://openreview.net/forum?id=V7x2KZQn2v))
 
 1. Yao Y, Cappola J, Zhang Z-Y, Zhu Q, Cai W-J, Yu X-X, Li L (2024). 
 __[Nanostructure and Dislocation Interactions in Refractory Complex Concentrated Alloy: From Chemical Short-Range Order to Nanoscale B2 Precipitates](https://doi.org/10.1016/j.actamat.2024.120457)__
