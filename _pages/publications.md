@@ -14,6 +14,7 @@ Online submissions to the arXiv.
 Peer-reviewed journal articles by year.
 
  - [All](/publications/papers/all/)
+ - [2025](/publications/papers/2025/)
  - [2024](/publications/papers/2024/)
  - [2023](/publications/papers/2023/)
  - [2022](/publications/papers/2022/)

@@ -5,19 +5,25 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
-1. Athiyarath V., Naranjo E., Dave D., Ridwan O, Arturo-Rodrigues D.A., Zhu Q., Moni M., Miron G., Banerjee D,
+1. Athiyarath V., Naranjo E., Dave D., Ridwan O, Arturo-Rodrigues D.A., **Zhu Q.**, Moni M., Miron G., Banerjee D,
 Hassanali A, Neary M.C., Zhang S., UIijn R. V., Chen X. (2024).
 [Peptide Crystal Hydrates with Context-Adaptive Topology](https://chemrxiv.org/engage/chemrxiv/article-details/6751b47b5a82cea2fa166282)
 
 
-1. Parrish K, Hu Q-Y, **Zhu Q** (2024). 
-[PyLRO: A Python Calculator for Analyzing Long-Range Structural Order](https://arxiv.org/abs/2410.09586)
+1. Gao X-X, Zhang K, Zhu Q, Chen C-F, Liu C (2025). 
+__[Setting material benchmarks at large-strain limits via ultimate strengths](https://www.sciencedirect.com/science/article/pii/S1359645425000175)__
 
-1. Liu C, Mukta M, Kang B, **Zhu Q** (2024). 
-__[Semiconducting Electrides Derived From Sodalite: A First-principles Study](https://arxiv.org/abs/2409.17249)__
-ACS Omega, Accepted
 
-1. Zhu Q, Hattori S. (2024). 
+1. Parrish K, Hu Q-Y, **Zhu Q** (2025). 
+[PyLRO: A Python Calculator for Analyzing Long-Range Structural Order](https://pubs.aip.org/aip/jap/article/137/2/025101/3329790)
+J. Appl. Phys. 137, 025101 (2025)
+
+1. Liu C, Mukta M, Kang B, **Zhu Q** (2025). 
+__[Semiconducting Electrides Derived From Sodalite: A First-principles Study](https://doi.org/10.1021/acsomega.4c09513)__
+ACS Omega, XXXX, XXX, XXX-XXX
+
+
+1. **Zhu Q**, Hattori S. (2025). 
 __[Automated High-throughput Organic Crystal Structure Prediction via Population-based Sampling](https://doi.org/10.1039/D4DD00264D)__ 
 Digital Discovery, 2024, Advance Article
 (Open Access: [PDF](https://doi.org/10.1039/D4DD00158C))
