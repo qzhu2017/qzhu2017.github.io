@@ -51,6 +51,8 @@ publications:
     children:
       - title: "All"
         url: /publications/papers/all/
+      - title: "2025"
+        url: /publications/papers/2025/
       - title: "2024"
         url: /publications/papers/2024/
       - title: "2023"
