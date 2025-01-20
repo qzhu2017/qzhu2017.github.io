@@ -15,13 +15,13 @@ __[Setting material benchmarks at large-strain limits via ultimate strengths](ht
 
 
 1. Parrish K, Hu Q-Y, **Zhu Q** (2025). 
-[PyLRO: A Python Calculator for Analyzing Long-Range Structural Order](https://pubs.aip.org/aip/jap/article/137/2/025101/3329790)
+__[PyLRO: A Python Calculator for Analyzing Long-Range Structural Order](https://pubs.aip.org/aip/jap/article/137/2/025101/3329790)__
 J. Appl. Phys. 137, 025101 (2025)
 
 1. Liu C, Mukta M, Kang B, **Zhu Q** (2025). 
 __[Semiconducting Electrides Derived From Sodalite: A First-principles Study](https://doi.org/10.1021/acsomega.4c09513)__
-ACS Omega, XXXX, XXX, XXX-XXX
-
+ACS Omega, 10, 1, 1635–1642
+(Open Access: [PDF](https://pubs.acs.org/doi/10.1021/acsomega.4c09513))
 
 1. **Zhu Q**, Hattori S. (2025). 
 __[Automated High-throughput Organic Crystal Structure Prediction via Population-based Sampling](https://doi.org/10.1039/D4DD00264D)__ 
