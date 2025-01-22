@@ -9,6 +9,10 @@ redirect_from:
 Hassanali A, Neary M.C., Zhang S., UIijn R. V., Chen X. (2024).
 [Peptide Crystal Hydrates with Context-Adaptive Topology](https://chemrxiv.org/engage/chemrxiv/article-details/6751b47b5a82cea2fa166282)
 
+1. Fahim Z, Santos-Florez P. A., Zhu Q (2024). 
+[Atomistic Modeling of Martensitic Phase Transition in Hexamethylbenzene](https://arxiv.org/abs/2501.11719)
+
+
 1. Gao X-X, Zhang K, Zhu Q, Chen C-F, Liu C (2025). 
 __[Setting material benchmarks at large-strain limits via ultimate strengths](https://www.sciencedirect.com/science/article/pii/S1359645425000175)__
 Acta Mater. 286, 120724
