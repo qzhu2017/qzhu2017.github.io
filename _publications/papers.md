@@ -26,11 +26,11 @@ __[Semiconducting Electrides Derived From Sodalite: A First-principles Study](ht
 ACS Omega, 10, 1, 1635–1642
 (Open Access: [PDF](https://pubs.acs.org/doi/10.1021/acsomega.4c09513))
 
+
 1. **Zhu Q**, Hattori S. (2025). 
 __[Automated High-throughput Organic Crystal Structure Prediction via Population-based Sampling](https://doi.org/10.1039/D4DD00264D)__ 
-Digital Discovery, 2024, Advance Article
-(Open Access: [PDF](https://doi.org/10.1039/D4DD00158C))
-
+Digital Discovery, 4, 120-134
+(Open Access: [PDF](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00264d))
 
 1. Levy D, Panigrahi S-S, Kaba S-O, **Zhu Q**, Galkin M, Miret S, Ravanbakhsh S. (2024)
 __[SymmCD: Symmetry-Preserving Crystal Generation with Diffusion Models](https://openreview.net/forum?id=V7x2KZQn2v)__
