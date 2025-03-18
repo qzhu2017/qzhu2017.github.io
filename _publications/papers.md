@@ -12,6 +12,9 @@ Hassanali A, Neary M.C., Zhang S., UIijn R. V., Chen X. (2024).
 1. Fahim Z, Santos-Florez P. A., Zhu Q (2024). 
 [Atomistic Modeling of Martensitic Phase Transition in Hexamethylbenzene](https://arxiv.org/abs/2501.11719)
 
+1. Hou J, **Zhu Q**, Weng X-J, Shao X, Dong X, Wang H-T, Zhou X-F, Tian Y-J (2025).
+__[Prediction of Cyclic O6 Molecules Stabilized by Helium under Pressure](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202415517)__
+Adv. Sci., 2415517
 
 1. Gao X-X, Zhang K, Zhu Q, Chen C-F, Liu C (2025). 
 __[Setting material benchmarks at large-strain limits via ultimate strengths](https://www.sciencedirect.com/science/article/pii/S1359645425000175)__
