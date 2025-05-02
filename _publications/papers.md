@@ -8,12 +8,12 @@ redirect_from:
 1. Onyango I, Kang B-K, Zhu Q (2025).
 [GPR_calculator: An On-the-Fly Surrogate Model to Accelerate Massive Nudged Elastic Band Calculations](https://arxiv.org/abs/2504.07319)
 
-1. Athiyarath V., Naranjo E., Dave D., Ridwan O, Arturo-Rodrigues D.A., **Zhu Q.**, Moni M., Miron G., Banerjee D,
-Hassanali A, Neary M.C., Zhang S., UIijn R. V., Chen X. (2024).
+1. Athiyarath V., Naranjo E., Dave D., Ridwan O, Arturo-Rodrigues D.A., **Zhu Q.**, Moni M., Miron G., Banerjee D, Hassanali A, Neary M.C., Zhang S., UIijn R. V., Chen X. (2024).
 [Peptide Crystal Hydrates with Context-Adaptive Topology](https://chemrxiv.org/engage/chemrxiv/article-details/6751b47b5a82cea2fa166282)
 
-1. Fahim Z, Santos-Florez P. A., **Zhu Q** (2024). 
-[Atomistic Modeling of Martensitic Phase Transition in Hexamethylbenzene](https://arxiv.org/abs/2501.11719)
+1. Fahim Z, Santos-Florez P. A., **Zhu Q** (2025). 
+__[Atomistic Modeling of Martensitic Phase Transition in Hexamethylbenzene](https://arxiv.org/abs/2501.11719)__
+CrystEngComm, DOI: 10.1039/D5CE00078E
 
 1. Hou J, **Zhu Q**, Weng X-J, Shao X, Dong X, Wang H-T, Zhou X-F, Tian Y-J (2025).
 __[Prediction of Cyclic O6 Molecules Stabilized by Helium under Pressure](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202415517)__
