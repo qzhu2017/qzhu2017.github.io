@@ -5,17 +5,31 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
-1. Onyango I, Kang B-K, Zhu Q (2025).
-[GPR_calculator: An On-the-Fly Surrogate Model to Accelerate Massive Nudged Elastic Band Calculations](https://arxiv.org/abs/2504.07319)
+1. Onyango I, Kang B-K, **Zhu Q** (2025).
+__[GPR_calculator: An On-the-Fly Surrogate Model to Accelerate Massive Nudged Elastic Band Calculations](https://arxiv.org/abs/2504.07319)__
 
-1. Athiyarath V., Naranjo E., Dave D., Ridwan O, Arturo-Rodrigues D.A., **Zhu Q.**, Moni M., Miron G., Banerjee D, Hassanali A, Neary M.C., Zhang S., UIijn R. V., Chen X. (2024).
-[Peptide Crystal Hydrates with Context-Adaptive Topology](https://chemrxiv.org/engage/chemrxiv/article-details/6751b47b5a82cea2fa166282)
+1. Athiyarath V., Naranjo E., Dave D., Ridwan O., Arturo-Rodrigues D.A., **Zhu Q.**, Moni M., Miron G., Banerjee D, Hassanali A, Neary M.C., Zhang S., UIijn R. V., Chen X. (2024).
+__[Peptide Crystal Hydrates with Context-Adaptive Topology](https://chemrxiv.org/engage/chemrxiv/article-details/6751b47b5a82cea2fa166282)__
+
+1. Fahim Z., Commins P., Li L., Naumov P., **Zhu Q** (2025). 
+__[Atomistic Understanding of Ferroelastic Phase Transition and Self-Healing in Aniline-HBr](https://arxiv.org/abs/****)__
+
+1. Ridwan O., Pitie S., Monish S. R., Dai D., Frapper G., Xue H-F, **Zhu Q** (2025)
+__[AI-Assisted Rapid Crystal Structure Generation With a Target Local Environment](https://arxiv.org/abs/****)__
+
+<! ---
+1. Sun W-Y, Ridwan O., Kucheyev S. O, Zhu Q, and Wan L-W (2025).
+Unveiling X-ray Absorption Signatures of Boron Nitride via First-Principles Simulation and Machine Learning.
+1. Hou J-Y, Wang X-J, Zhu Q., Shao X., Qiu S-C, Weng X-J, Yang G-C, Dong X., Zhou X-F., Tian Y-J. (2025)
+Formation of chemical bonding between helium and fluorine under pressure.
+J. Am. Chem. Soc.,
+--- !>
 
 1. Fahim Z, Santos-Florez P. A., **Zhu Q** (2025). 
 __[Atomistic Modeling of Martensitic Phase Transition in Hexamethylbenzene](https://arxiv.org/abs/2501.11719)__
 CrystEngComm, DOI: 10.1039/D5CE00078E
 
-1. Hou J, **Zhu Q**, Weng X-J, Shao X, Dong X, Wang H-T, Zhou X-F, Tian Y-J (2025).
+1. Hou J-Y, **Zhu Q**, Weng X-J, Shao X, Dong X, Wang H-T, Zhou X-F, Tian Y-J (2025).
 __[Prediction of Cyclic O6 Molecules Stabilized by Helium under Pressure](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202415517)__
 Adv. Sci., 2415517
 
@@ -31,7 +45,6 @@ J. Appl. Phys. 137, 025101
 __[Semiconducting Electrides Derived From Sodalite: A First-principles Study](https://doi.org/10.1021/acsomega.4c09513)__
 ACS Omega, 10, 1, 1635–1642
 (Open Access: [PDF](https://pubs.acs.org/doi/10.1021/acsomega.4c09513))
-
 
 1. **Zhu Q**, Hattori S. (2025). 
 __[Automated High-throughput Organic Crystal Structure Prediction via Population-based Sampling](https://doi.org/10.1039/D4DD00264D)__ 
@@ -52,7 +65,6 @@ __[Revisiting Aspirin Polymorphic Stability Using a Machine Learning Potential](
 ACS Omega, 9, 34, 36589-36599
 (Open Access: [PDF](https://doi.org/10.1021/acsomega.4c04782))
 
-
 1. AI-Handawi, M-B, Commnis P, Dalaq A. S.,  Santos-Florez P. A., ... **Zhu Q**, Daqaq M, Li L, Naumov P (2024).
 __[Ferroelastic Ionic Organic Crystals that Self-Heal to 95%](https://doi.org/10.1038/s41467-024-51625-x)__
 Nat. Commun., 15, 8095
@@ -68,11 +80,9 @@ __[First-principles Investigation of Electrides Derived from Sodalites](https://
 J. Phys. Chem. C, 127, 37, 18745–18754
 (Open Access: [PDF](/assets/pdfs/papers/2023-JPCC-Electride.pdf))
 
-
 1. Chen W, Li L, **Zhu Q**, Zhuang H-L (2023).
 __[Chemical short‐range order in complex concentrated alloys](https://doi.org/10.1557/s43577-023-00575-8)__
 MRS Bulletin, 48, 762-768
-
 
 1. Santos-Florez P. A., Dai S-C, Yao Y, Yanxon H, Li L,Wang Y-J, **Zhu Q**, Yu X-X (2022).
 __[Short-range order and its impacts on the BCC NbMoTaW multi-principal element alloy by the machine-learning potential](https://doi.org/10.1016/j.actamat.2023.119041)__
@@ -94,7 +104,6 @@ Nat. Commun., 14, 527
 1. Kang B, **Zhu Q** (2022).
 __[Spin-spin interaction in non-magnetic transition metal oxides through doping light elements](https://doi.org/10.1021/acs.jpcc.2c05979)__.
 J. Phys. Chem. C, 126, 49, 21034–21039
-
 
 1. **Zhu Q**, Tang W-L, Hattori, S (2022).
 __[Quantification of Crystal Packing Similarity from Spherical Harmonic Transform](https://doi.org/10.1021/acs.cgd.2c00933)__	
@@ -139,7 +148,6 @@ Computer Physics Communications, 261, 107810
 1. Yang X., Sa B., Lin P., Xu C., **Zhu Q.**, Zhan H., Sun Z. (2020).
 __[Tunable Contacts in Graphene/InSe van der Waals Heterostructures](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.0c06890)__
  J. Phys. Chem. C 2020, 124, 43, 23699–23706
-
 
 1. Yanxon H., Zagaceta D., Tang B., Matteson D., **Zhu Q.** (2020).
 __[PyXtal FF: a Python Library for Automated Force Field Generation](https://iopscience.iop.org/article/10.1088/2632-2153/abc940)__. 
@@ -223,7 +231,7 @@ Phys. Rev. B, 98, 174109
 
 1. Hao, C-M, Li Y-G , **Zhu, Q**, Chen X-Y, Wang Z-X, Li, Y-L, (2018)
 __[Pressure-induced structural phase transition in Li4Ge](https://pubs.rsc.org/en/content/articlehtml/2018/ce/c8ce00783g)__ 
-CrystEngComm, 20, 5949-5954 [html]
+CrystEngComm, 20, 5949-5954 
 
 1. Tan M, Shtukenberg AG, Zhu SC, Xu WQ, Dooryhee E, Nichols SM, Ward WD, Kahr and **Zhu, Q**, (2018)
 __[ROY revisited, again: the eighth solved structure](https://pubs.rsc.org/en/content/articlelanding/2018/fd/c8fd00039e#!divAbstract)__
@@ -253,7 +261,6 @@ J. Phys. Chem. C, 122, 6704-6712
 __[Predicting phase behavior of grain boundaries with evolutionary search and machine learning](https://www.nature.com/articles/s41467-018-02937-2)__.
 Nature Communication, 9, 467 
 
-
 1. Yang JX, Hu CT, Zhu XL, Zhu Q, et al (2017) 
 __[DDT Polymorphism and the Lethality of Crystal Forms](http://onlinelibrary.wiley.com/wol1/doi/10.1002/anie.201703028/full)__
 Angew. Chem. Int. Ed., 56, 10165-10169 ([pdf](/assets/pdfs/papers/2017-AngewChem-ddt.pdf))
@@ -264,11 +271,11 @@ Cryst. Growth Des., 17, 3562-3566 ([pdf](/assets/pdfs/papers/2017-CGD-aspirin.pd
 
 1. Shtukenberg AG, **Zhu Q**, et al (2017) 
 __[Powder diffraction and crystal structure prediction identify four new coumarin polymorphs](http://pubs.rsc.org/en/content/articlehtml/2015/sc/c7sc00168a)__
-Chemical Science, 8 4926-4940 [pdf](https://pubs.rsc.org/en/content/articlepdf/2017/sc/c7sc00168a)
+Chemical Science, 8 4926-4940 ([pdf](https://pubs.rsc.org/en/content/articlepdf/2017/sc/c7sc00168a))
 
 1. Esfahani MMD, Zhu Q, et al (2017) 
 __[Novel magnesium borides and their superconductivity](https://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp00840f#!divAbstract)__
-Phys.Chem.Chem.Phys, 19 14486 
+Phys. Chem. Chem. Phys, 19 14486 
 
 1. Dong X, Oganov AR, Goncharov AF., Stravrou E, Lobanov, S, Lobanov S, Saleh, G., Qian GR, Zhu Q, Gatti C, Deringer VL, Dronskowski R, Zhou XF, Prakapenka V, Konopkova Z, Popov, IA, Boldyrev AI, Wang HT (2017) 
 __[Stable Compound of Helium and Sodium at High Pressure](https://www.nature.com/articles/nchem.2716)__
@@ -340,7 +347,7 @@ New Reconstructions of the (110) Surface of Rutile TiO 2 Predicted by an Evoluti
 Phys. Rev. Lett. , 113, 266101
 
 1. **Zhu, Q.**, Sharma, V., Oganov, A. R., Ramprasad, R. (2014) 
-Predicting Polymeric Crystal Structures by Evolutionary Algorithms.
+__[Predicting Polymeric Crystal Structures by Evolutionary Algorithms](https://doi.org/10.1063/1.4897337)__.
 J. Chem. Phys. 141, 154102
 
 1. Zhou, X.F., Oganov, A. R., Shao, X., Zhu, Q., and Wang, H.T. (2014).
@@ -380,7 +387,7 @@ Unexpected Stable Stoichiometries of Sodium Chlorides.
 Science, 342, 1502-1505
 
 1. **Zhu Q**, Li L, Oganov AR, Allen PB (2013) 
-Evolutionary Method for Predicting Surface Reconstructions with Variable Stoichiometry.
+__[Evolutionary Method for Predicting Surface Reconstructions with Variable Stoichiometry](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.87.195317)__.
 Phys. Rev. B, 87, 195317
 
 1. Hu CH, Oganov AR, Zhu Q, Qian G-R, Frapper G, Lyakhov AO, Zhou HY (2013)
@@ -411,13 +418,13 @@ Systematic search for low-enthalpy sp(3) carbon allotropes using evolutionary me
 Phys. Rev. B 85, 201407
 
 1. **Zhu Q**, Oganov AR, Glass CW, Stokes H.(2012). 
-Constrained evolutionary algorithm for structure prediction of molecular crystals: methodology and applications. 
+__[Constrained evolutionary algorithm for structure prediction of molecular crystals: methodology and applications](https://journals.iucr.org/b/issues/2012/03/00/sn5112/index.html)__. 
 Acta. Caryst. B68, 215-226
 
 1. **Zhu Q**, Oganov A.R. and Lyakhov A.O. (2012) 
-Evolutionary metadynamics: a novel method to predict crystal structures. 
+__[Evolutionary metadynamics: a novel method to predict crystal structures](https://pubs.rsc.org/en/content/articlelanding/2012/ce/c2ce06642d)__. 
 Cryst. Eng. Comm. 14, 3596-3601.
 
 1. **Zhu Q.**, Oganov A.R., Salvado M.A., Pertierra P., and Lyakhov A.O. (2011) 
-Denser than diamond: Ab initio search for superdense carbon allotropes. 
+__[Denser than diamond: Ab initio search for superdense carbon allotropes](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.83.193410)__.
 Phys. Rev. B 83, 193410.
