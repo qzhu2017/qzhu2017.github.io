@@ -5,6 +5,15 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
+<!---
+1. Sun W-Y, Ridwan O., Kucheyev S. O, Zhu Q, and Wan L-W (2025).
+Unveiling X-ray Absorption Signatures of Boron Nitride via First-Principles Simulation and Machine Learning.
+
+1. Hou J-Y, Wang X-J, Zhu Q., Shao X., Qiu S-C, Weng X-J, Yang G-C, Dong X., Zhou X-F., Tian Y-J. (2025)
+Formation of chemical bonding between helium and fluorine under pressure.
+J. Am. Chem. Soc.,
+--->
+
 1. Onyango I, Kang B-K, **Zhu Q** (2025).
 __[GPR_calculator: An On-the-Fly Surrogate Model to Accelerate Massive Nudged Elastic Band Calculations](https://arxiv.org/abs/2504.07319)__
 
@@ -16,15 +25,6 @@ __[Atomistic Understanding of Ferroelastic Phase Transition and Self-Healing in 
 
 1. Ridwan O., Pitie S., Monish S. R., Dai D., Frapper G., Xue H-F, **Zhu Q** (2025)
 __[AI-Assisted Rapid Crystal Structure Generation With a Target Local Environment](https://arxiv.org/abs/****)__
-
-<!---
-1. Sun W-Y, Ridwan O., Kucheyev S. O, Zhu Q, and Wan L-W (2025).
-Unveiling X-ray Absorption Signatures of Boron Nitride via First-Principles Simulation and Machine Learning.
-
-1. Hou J-Y, Wang X-J, Zhu Q., Shao X., Qiu S-C, Weng X-J, Yang G-C, Dong X., Zhou X-F., Tian Y-J. (2025)
-Formation of chemical bonding between helium and fluorine under pressure.
-J. Am. Chem. Soc.,
---->
 
 1. Fahim Z, Santos-Florez P. A., **Zhu Q** (2025). 
 __[Atomistic Modeling of Martensitic Phase Transition in Hexamethylbenzene](https://arxiv.org/abs/2501.11719)__
