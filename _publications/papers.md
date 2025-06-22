@@ -24,11 +24,12 @@ __[Peptide Crystal Hydrates with Context-Adaptive Topology](https://chemrxiv.org
 __[Atomistic Understanding of Ferroelastic Phase Transition and Self-Healing in Aniline-HBr](https://arxiv.org/abs/****)__
 
 1. Ridwan O., Pitie S., Monish S. R., Dai D., Frapper G., Xue H-F, **Zhu Q** (2025)
-__[AI-Assisted Rapid Crystal Structure Generation With a Target Local Environment](https://arxiv.org/abs/****)__
+__[AI-Assisted Rapid Crystal Structure Generation With a Target Local Environment](https://arxiv.org/abs/2506.08224)__
 
 1. Fahim Z, Santos-Florez P. A., **Zhu Q** (2025). 
-__[Atomistic Modeling of Martensitic Phase Transition in Hexamethylbenzene](https://arxiv.org/abs/2501.11719)__
-CrystEngComm, DOI: 10.1039/D5CE00078E
+__[Atomistic Modeling of Martensitic Phase Transition in Hexamethylbenzene](https://pubs.rsc.org/en/content/articlelanding/2025/ce/d5ce00078e)__
+CrystEngComm, 27, 3922-3930
+(Open Access: [PDF](https://doi.org/10.1039/D5CE00078E))
 
 1. Hou J-Y, **Zhu Q**, Weng X-J, Shao X, Dong X, Wang H-T, Zhou X-F, Tian Y-J (2025).
 __[Prediction of Cyclic O6 Molecules Stabilized by Helium under Pressure](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202415517)__
