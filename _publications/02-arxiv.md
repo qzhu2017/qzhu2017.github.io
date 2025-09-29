@@ -11,4 +11,8 @@ Hassanali A, Neary M.C., Zhang S., UIijn R. V., Chen X. (2024)
 [Peptide Crystal Hydrates with Context-Adaptive Topology](https://chemrxiv.org/engage/chemrxiv/article-details/6751b47b5a82cea2fa166282)
 
 1. Onyango I., **Zhu Q** (2025) 
-[Direct Deoxygenation of Phenol over Fe-based Bimetallic Surfaces using On-the-fly Surrogate Models](https://arxiv.org/abs/2506.08224)
+[Direct Deoxygenation of Phenol over Fe-based Bimetallic Surfaces using On-the-fly Surrogate Models](https://arxiv.org/abs/2509.21678)
+
+1. Fahim Z., Commins P., Li L., Naumov P., **Zhu Q** (2025). 
+__[Atomistic Understanding of Ferroelastic Phase Transition and Self-Healing in Aniline-HBr](https://chemrxiv.org/***)__
+
