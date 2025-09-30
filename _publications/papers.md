@@ -10,12 +10,11 @@ redirect_from:
 __[Crystal Representation in the Reciprocal Space](***)__
 --->
 
+1. Onyango I., **Zhu Q** (2025) 
+[Direct Deoxygenation of Phenol over Fe-based Bimetallic Surfaces using On-the-fly Surrogate Models](https://arxiv.org/abs/2509.21678)
+
 1. Fahim Z., Commins P., Li L., Naumov P., **Zhu Q** (2025). 
-__[Atomistic Understanding of Ferroelastic Phase Transition and Self-Healing in Aniline-HBr](https://arxiv.org/abs/****)__
-
-
-1. Onyango I, **Zhu Q** (2025).
-__[Direct Deoxygenation of Phenol over Fe-based Bimetallic Surfaces using On-the-fly Surrogate Models](**)__
+[Atomistic Understanding of Ferroelastic Phase Transition and Self-Healing in Aniline-HBr](https://chemrxiv.org/engage/chemrxiv/article-details/68d5cc153e708a76494a25b8)
 
 1. Sun W-Y, Ridwan O., Kucheyev S. O, **Zhu Q**, and Wan L-W (2025).
 Unveiling X-ray Absorption Signatures of Boron Nitride via First-Principles Simulation and Machine Learning.
