@@ -15,7 +15,7 @@ Chem. Sci., DOI: 10.1039/d5sc06790a)
 
 1. Onyango I., **Zhu Q** (2025) 
 [Direct Deoxygenation of Phenol over Fe-based Bimetallic Surfaces using On-the-fly Surrogate Models](https://arxiv.org/abs/2509.21678)
-J. Phys. Chem. C, DOI:10.1021/acs.jpcc.5c05436
+J. Phys. Chem. C, 129, 42, 18968–18976, DOI:10.1021/acs.jpcc.5c05436
 
 1. Sun W-Y, Ridwan O., Kucheyev S. O, **Zhu Q**, and Wan L-W (2025).
 [Unveiling X-ray Absorption Signatures of Boron Nitride via First-Principles Simulation and Machine Learning](https://doi.org/10.1016/j.nxmate.2025.101271).
