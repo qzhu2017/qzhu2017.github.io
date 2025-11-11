@@ -9,9 +9,9 @@ redirect_from:
 1. ****, Zhu Q (2025).
 __[Crystal Representation in the Reciprocal Space](***)__
 --->
-
 1. Fahim Z., Commins P., Li L., Naumov P., **Zhu Q** (2025). 
-[Atomistic Understanding of Ferroelastic Phase Transition and Self-Healing in Aniline-HBr](https://chemrxiv.org/engage/chemrxiv/article-details/68d5cc153e708a76494a25b8)
+[Atomistic understanding of self-healing of a ferroelastic crystal](https://pubs.rsc.org/en/content/articlepdf/2025/SC/D5SC06790A)
+Chem. Sci., DOI: 10.1039/d5sc06790a)
 
 1. Onyango I., **Zhu Q** (2025) 
 [Direct Deoxygenation of Phenol over Fe-based Bimetallic Surfaces using On-the-fly Surrogate Models](https://arxiv.org/abs/2509.21678)
