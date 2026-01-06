@@ -9,7 +9,13 @@ redirect_from:
 1. ****, Zhu Q (2025).
 __[Crystal Representation in the Reciprocal Space](***)__
 --->
-1. Fahim Z., Commins P., Li L., Naumov P., **Zhu Q** (2025). 
+
+1. Ridwan O., Pitie S., Monish S. R., Dai D., Frapper G., Xue H-F, **Zhu Q** (2026)
+[AI-Assisted Rapid Crystal Structure Generation With a Target Local Environment](https://www.nature.com/articles/s41524-025-01931-9)
+npj Computational Materials, DOI: 10.1038/s41524-025-01931-9
+
+
+1. Fahim Z., Commins P., Li L., Naumov P., **Zhu Q** (2026). 
 [Atomistic understanding of self-healing of a ferroelastic crystal](https://pubs.rsc.org/en/content/articlepdf/2025/SC/D5SC06790A)
 Chem. Sci., DOI: 10.1039/d5sc06790a)
 
