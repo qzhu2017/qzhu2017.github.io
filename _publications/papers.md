@@ -17,7 +17,7 @@ npj Computational Materials, DOI: 10.1038/s41524-025-01931-9
 
 1. Fahim Z., Commins P., Li L., Naumov P., **Zhu Q** (2026). 
 [Atomistic understanding of self-healing of a ferroelastic crystal](https://pubs.rsc.org/en/content/articlepdf/2025/SC/D5SC06790A)
-Chem. Sci., DOI: 10.1039/d5sc06790a)
+Chem. Sci., 17, 335, DOI: 10.1039/d5sc06790a)
 
 1. Onyango I., **Zhu Q** (2025) 
 [Direct Deoxygenation of Phenol over Fe-based Bimetallic Surfaces using On-the-fly Surrogate Models](https://arxiv.org/abs/2509.21678)
