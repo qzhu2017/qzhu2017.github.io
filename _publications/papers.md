@@ -5,10 +5,13 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
-<!---
-1. ****, Zhu Q (2025).
-__[Crystal Representation in the Reciprocal Space](***)__
---->
+1. Athiyarath V., Naranjo E., Dave D., Ridwan O., Arturo-Rodrigues D.A., **Zhu Q.**, Moni M., Miron G., Banerjee D, Hassanali A, Neary M.C., Zhang S., UIijn R. V., Chen X. (2026).
+__[Peptide Crystal Hydrates with Context-Adaptive Topology](https://chemrxiv.org/engage/chemrxiv/article-details/6751b47b5a82cea2fa166282)__
+
+1. Mukta M-M, Perriot R, Hattori S, Zhou W, **Zhu Q** (2026)
+[https://arxiv.org/abs/2601.17981](https://www.nature.com/articles/s41524-025-01931-9)
+RSC Adv., 2026, DOI: 10.1039/D5RA09332E
+
 
 1. Ridwan O., Pitie S., Monish S. R., Dai D., Frapper G., Xue H-F, **Zhu Q** (2026)
 [AI-Assisted Rapid Crystal Structure Generation With a Target Local Environment](https://www.nature.com/articles/s41524-025-01931-9)
@@ -26,12 +29,6 @@ J. Phys. Chem. C, 129, 42, 18968–18976, DOI:10.1021/acs.jpcc.5c05436
 1. Sun W-Y, Ridwan O., Kucheyev S. O, **Zhu Q**, and Wan L-W (2025).
 [Unveiling X-ray Absorption Signatures of Boron Nitride via First-Principles Simulation and Machine Learning](https://doi.org/10.1016/j.nxmate.2025.101271).
 Next Mater., 9, 101271
-
-1. Athiyarath V., Naranjo E., Dave D., Ridwan O., Arturo-Rodrigues D.A., **Zhu Q.**, Moni M., Miron G., Banerjee D, Hassanali A, Neary M.C., Zhang S., UIijn R. V., Chen X. (2024).
-__[Peptide Crystal Hydrates with Context-Adaptive Topology](https://chemrxiv.org/engage/chemrxiv/article-details/6751b47b5a82cea2fa166282)__
-
-1. Ridwan O., Pitie S., Monish S. R., Dai D., Frapper G., Xue H-F, **Zhu Q** (2025)
-__[AI-Assisted Rapid Crystal Structure Generation With a Target Local Environment](https://arxiv.org/abs/2506.08224)__
 
 1. Onyango I, Kang B-K, **Zhu Q** (2025).
 __[GPR_calculator: An On-the-Fly Surrogate Model to Accelerate Massive Nudged Elastic Band Calculations](https://arxiv.org/abs/2504.07319)__
