@@ -9,13 +9,13 @@ redirect_from:
 __[Peptide Crystal Hydrates with Context-Adaptive Topology](https://chemrxiv.org/engage/chemrxiv/article-details/6751b47b5a82cea2fa166282)__
 
 1. Mukta M-M, Perriot R, Hattori S, Zhou W, **Zhu Q** (2026)
-[https://arxiv.org/abs/2601.17981](https://www.nature.com/articles/s41524-025-01931-9)
-RSC Adv., 2026, DOI: 10.1039/D5RA09332E
+[Structure prediction of porous organic crystals](https://pubs.rsc.org/en/content/articlelanding/2026/ra/d5ra09332e)
+RSC Adv., 16, 7221-7229 DOI: 10.1039/D5RA09332E
 
 
 1. Ridwan O., Pitie S., Monish S. R., Dai D., Frapper G., Xue H-F, **Zhu Q** (2026)
 [AI-Assisted Rapid Crystal Structure Generation With a Target Local Environment](https://www.nature.com/articles/s41524-025-01931-9)
-npj Computational Materials, DOI: 10.1038/s41524-025-01931-9
+npj Computational Materials, 12, 64 DOI: 10.1038/s41524-025-01931-9
 
 
 1. Fahim Z., Commins P., Li L., Naumov P., **Zhu Q** (2026). 
