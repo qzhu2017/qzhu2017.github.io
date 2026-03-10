@@ -12,7 +12,7 @@ header:
       url: "/research/"
 excerpt: "Understanding the fundamental structure and properties of materials toward discovery and design."
 intro: 
-  - excerpt: "We develop and apply a variety of computational methods, including: _atomistic simulation_,  _density functional theory_ and _structure prediction_ to investigate the materials' structure-property relation.<br />
+  - excerpt: "We develop and apply a variety of computational methods, including: _atomistic simulation_,  _density functional theory_ and _structure prediction_ to investigate the materials' structure-property relation, as well as [Datahub](https://mmi.charlotte.edu) for new materials discovery.<br />
   <br />
   __Our goal is to discover and design new materials in the following aspects:__"
 feature_row:
