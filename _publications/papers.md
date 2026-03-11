@@ -6,7 +6,8 @@ redirect_from:
     - /papers/
 ---
 1. Athiyarath V., Naranjo E., Dave D., Ridwan O., Arturo-Rodrigues D.A., **Zhu Q.**, Moni M., Miron G., Banerjee D, Hassanali A, Neary M.C., Zhang S., UIijn R. V., Chen X. (2026).
-__[Peptide Crystal Hydrates with Context-Adaptive Topology](https://chemrxiv.org/engage/chemrxiv/article-details/6751b47b5a82cea2fa166282)__
+[Water-mediated reconfigurable topology and mechanics in porous peptide materials](https://doi.org/10.1016/j.matt.2026.102669)
+Matter, DOI: 10.1016/j.matt.2026.102669
 
 1. Mukta M-M, Perriot R, Hattori S, Zhou W, **Zhu Q** (2026)
 [Structure prediction of porous organic crystals](https://pubs.rsc.org/en/content/articlelanding/2026/ra/d5ra09332e)
