@@ -5,6 +5,16 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
+1. Ridwan O., Frapper G., Xue H-F, **Zhu Q** (2026)
+[Crystal Generation using the Fully Differentiable Pipeline and Latent Space
+Optimization](https://doi.org/10.1088/2632-2153/ae6751)
+Mach. Learn.: Sci. Technol. 7 035026
+
+1. Wu H, Zhu Q, Zhou W (2026)
+[Tackling complexity in crystal structure determination of metal organic compounds using machine
+learning interatomic potentials](https://doi.org/10.1039/d6cc01457g)
+Chem. Commun. DOI: 10.1039/d6cc01457g
+
 1. Athiyarath V., Naranjo E., Dave D., Ridwan O., Arturo-Rodrigues D.A., **Zhu Q.**, Moni M., Miron G., Banerjee D, Hassanali A, Neary M.C., Zhang S., UIijn R. V., Chen X. (2026).
 [Water-mediated reconfigurable topology and mechanics in porous peptide materials](https://doi.org/10.1016/j.matt.2026.102669)
 Matter, DOI: 10.1016/j.matt.2026.102669
