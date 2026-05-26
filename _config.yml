@@ -21,7 +21,7 @@ title                    : "MMI &#124; UNCC"
 title_separator          : "|"
 subtitle                 : "Materials Modelling and Informatics | The University of North Carolina at Charlotte"
 name                     : &name "Qiang Zhu" # &name is a YAML anchor which can be *referenced later
-email                    : &email "qzhu8@uncc.edu"
+email                    : &email "qzhu8@charlotte.edu"
 description              : &description "Our research focuses on fundamental understandings of structures and properties in materials, with the goal of discovery and design for high pressure physics and chemistry, organic crystal polymorphism, defects in materials, and materials informatics."
 logo                     : "/assets/images/logo.png"
 favicon                  : "/assets/images/favicon.ico"
