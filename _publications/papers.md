@@ -10,7 +10,7 @@ redirect_from:
 Optimization](https://doi.org/10.1088/2632-2153/ae6751)
 Mach. Learn.: Sci. Technol. 7 035026
 
-1. Wu H, Zhu Q, Zhou W (2026)
+1. Wu H, **Zhu Q**, Zhou W (2026)
 [Tackling complexity in crystal structure determination of metal organic compounds using machine
 learning interatomic potentials](https://doi.org/10.1039/d6cc01457g)
 Chem. Commun. DOI: 10.1039/d6cc01457g
