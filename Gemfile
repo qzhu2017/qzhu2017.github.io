@@ -10,6 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
+gem "nokogiri", "= 1.13.10"
 
 # To upgrade, run `bundle update`.
 
