@@ -4,6 +4,10 @@ permalink: /publications/books-chapters/
 excerpt: "Contributions to books or included chapters"
 ---
 
+1. Zhu Q. (2025).
+__[Atomistic Modelling in Materials Simulation](/assets/pdfs/books-chapters/2025_AtomisticModelling.pdf)__
+[draft version]
+
 1. Zhu Q., Oganov A.R., Zeng Q.F., Zhou X.F. (2016).
 __[Structure prediction and its applications in computational materials design](https://pubs.rsc.org/en/content/chapter/bk9781782621157-00219/978-1-78262-115-7)__.
 _Chem. Model._ __12__, 219-248 ([PDF](/assets/pdfs/books-chapters/book-chapter-2015-RSC.pdf))
