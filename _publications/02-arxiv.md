@@ -17,6 +17,10 @@ arXiv Preprint
 1. Su K-S, Xue H-F, **Zhu Q** (2026)
 [CrystalGRPO: Target-Aligned and Coverage-Preserving Reinforcement Learning for Flow-Based Crystal Structure Prediction](http://arxiv.org/abs/2608.06582)
 
+1. Tao S, Ridwan O., Ke L, **Zhu Q** (2026)
+[High-throughput Discovery of Magnetic Rare Earth Transition Metal Alloys](https://arxiv.org/abs/2608.25270)
+
+
 <!--
 1. Mukta M-M, Ridwan O., Perriot R, **Zhu Q** (2026) 
 [Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems](***)
