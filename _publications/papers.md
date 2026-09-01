@@ -5,6 +5,11 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
+1. Tao S, **Zhu Q** (2026).
+[Accelerated Inorganic Electrides Discovery by Generative Models and Hierarchical Screening](https://link.aps.org/doi/10.1103/cq1m-y96b)
+PRX Intelligence, DOI: 10.1103/cq1m-y96b
+
+
 1. Ridwan O., Frapper G., Xue H-F, **Zhu Q** (2026)
 [Crystal Generation using the Fully Differentiable Pipeline and Latent Space
 Optimization](https://doi.org/10.1088/2632-2153/ae6751)
