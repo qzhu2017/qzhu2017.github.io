@@ -6,7 +6,7 @@ redirect_from:
     - /papers/
 ---
 1. Y-X Chen, **Zhu Q** (2026)
-[Free-Energy-Based Thermodynamic and Kinetic Landscapes of Cu-Nb Alloys](https://arxiv.org/abs/2601.21077)
+[Free-Energy-Based Thermodynamic and Kinetic Landscapes of Cu-Nb Alloys](https://doi.org/10.1063/5.0342490)
 J. Appl. Phys., DOI: 10.1063/5.0342490
 
 1. Tao S, **Zhu Q** (2026).
