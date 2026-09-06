@@ -5,6 +5,10 @@ excerpt: "Peer-reviewed journal articles"
 redirect_from:
     - /papers/
 ---
+1. Y-X Chen, **Zhu Q** (2026)
+[Free-Energy-Based Thermodynamic and Kinetic Landscapes of Cu-Nb Alloys](https://arxiv.org/abs/2601.21077)
+J. Appl. Phys., DOI: 10.1063/5.0342490
+
 1. Tao S, **Zhu Q** (2026).
 [Accelerated Inorganic Electrides Discovery by Generative Models and Hierarchical Screening](https://link.aps.org/doi/10.1103/cq1m-y96b)
 PRX Intelligence, DOI: 10.1103/cq1m-y96b
