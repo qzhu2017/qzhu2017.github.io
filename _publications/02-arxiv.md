@@ -21,9 +21,7 @@ arXiv Preprint
 [High-throughput Discovery of Magnetic Rare Earth Transition Metal Alloys](https://arxiv.org/abs/2608.25270)
 
 
-<!--
 1. Mukta M-M, Ridwan O., Perriot R, **Zhu Q** (2026) 
-[Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems](***)
+[Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems](https://arxiv.org/abs/2609.07477)
 arXiv Preprint
--->
 
