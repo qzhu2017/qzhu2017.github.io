@@ -25,3 +25,7 @@ arXiv Preprint
 [Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems](https://arxiv.org/abs/2609.07477)
 arXiv Preprint
 
+1. **Zhu Q**, Weng Y-H (2026) 
+[Molecular Crystal Structure Prediction from Conditional Flow on the Unit Cells](http://arxiv.org/abs/2610.04193)
+arXiv Preprint
+
