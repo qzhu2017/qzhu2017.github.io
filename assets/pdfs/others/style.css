@@ -1,0 +1,33 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    gap: 50px;
+}
+
+#nameListSection {
+    text-align: left;
+}
+
+#displayArea {
+    text-align: right;
+    min-width: 200px; /* Adjust as needed */
+}
+
+#selectedName {
+    font-size: 30px;
+    color: darkblue;
+    font-weight: bold;
+    margin-top: 20px;
+    /* Add any additional styling you want for the selected name */
+}
+
+/* Style for the table and other elements as needed */
+

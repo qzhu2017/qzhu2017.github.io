@@ -1,0 +1,10 @@
+Addition: What is 123 + 456?
+Subtraction: Subtract 321 from 650.
+Multiplication: Multiply 25 by 8.
+Division: Divide 144 by 12.
+Mixed Operations: Solve this: (50 + 25) × 2 - 30.
+Fractions: What is half of 3/4?
+Decimal Addition: Add 4.56 and 7.34.
+Geometry: If a rectangle has a length of 8 cm and a width of 3 cm, what is its area?
+Time Calculation: If a train departs at 2:30 PM and arrives at its destination 3 hours later, what time does it arrive?
+Number Sequence: What is the next number in the sequence: 2, 4, 6, 8, ...?
