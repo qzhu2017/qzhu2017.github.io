@@ -29,3 +29,10 @@ arXiv Preprint
 [Molecular Crystal Structure Prediction from Conditional Flow on the Unit Cells](http://arxiv.org/abs/2610.04193)
 arXiv Preprint
 
+1. **Zhu Q** (2026) 
+[EpNet-Si: Atomic Form Factors Learned from Band Structures](http://arxiv.org/abs/2610.14992)
+arXiv Preprint
+
+
+
+
