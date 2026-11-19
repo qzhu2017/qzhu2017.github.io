@@ -33,6 +33,8 @@ arXiv Preprint
 [EpNet-Si: Atomic Form Factors Learned from Band Structures](http://arxiv.org/abs/2610.14992)
 arXiv Preprint
 
-
+1. **Zhu Q** (2026) 
+[Learning Electronic Band Structures Across the s, p, d Blocks with an Empirical Pseudopotential Network](http://arxiv.org/abs/2611.11070)
+arXiv Preprint
 
 
